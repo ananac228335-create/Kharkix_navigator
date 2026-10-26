@@ -1,0 +1,3194 @@
+{
+  "categories": [
+    {
+      "id": "square",
+      "uk": "Площі",
+      "en": "Squares",
+      "ru": "Площади"
+    },
+    {
+      "id": "park",
+      "uk": "Парки",
+      "en": "Parks",
+      "ru": "Парки"
+    },
+    {
+      "id": "museum",
+      "uk": "Музеї",
+      "en": "Museums",
+      "ru": "Музеи"
+    },
+    {
+      "id": "theater",
+      "uk": "Театри",
+      "en": "Theaters",
+      "ru": "Театры"
+    },
+    {
+      "id": "historic_building",
+      "uk": "Історичні будівлі",
+      "en": "Historic Buildings",
+      "ru": "Исторические здания"
+    },
+    {
+      "id": "architectural_landmark",
+      "uk": "Архітектурні пам'ятки",
+      "en": "Architectural Landmarks",
+      "ru": "Архитектурные достопримечательности"
+    },
+    {
+      "id": "church",
+      "uk": "Церкви та собори",
+      "en": "Churches and Cathedrals",
+      "ru": "Церкви и соборы"
+    },
+    {
+      "id": "library",
+      "uk": "Бібліотеки",
+      "en": "Libraries",
+      "ru": "Библиотеки"
+    },
+    {
+      "id": "embankment",
+      "uk": "Набережні",
+      "en": "Embankments",
+      "ru": "Набережные"
+    },
+    {
+      "id": "zoo",
+      "uk": "Зоопарки",
+      "en": "Zoos",
+      "ru": "Зоопарки"
+    },
+    {
+      "id": "shopping_center",
+      "uk": "Торгові центри",
+      "en": "Shopping Centers",
+      "ru": "Торговые центры"
+    },
+    {
+      "id": "cinema",
+      "uk": "Кінотеатри",
+      "en": "Cinemas",
+      "ru": "Кинотеатры"
+    },
+    {
+      "id": "stadium",
+      "uk": "Стадіони",
+      "en": "Stadiums",
+      "ru": "Стадионы"
+    },
+    {
+      "id": "bridge",
+      "uk": "Мости",
+      "en": "Bridges",
+      "ru": "Мосты"
+    },
+    {
+      "id": "fountain",
+      "uk": "Фонтани",
+      "en": "Fountains",
+      "ru": "Фонтаны"
+    }
+  ],
+  "places": [
+    {
+      "id": 1,
+      "name": {
+        "uk": "Майдан Конституції",
+        "en": "Constitution Square",
+        "ru": "Майдан Конституції"
+      },
+      "description": {
+        "uk": "Один із найстаріших центральних майданів Харкова, розташований у історичному центрі міста.",
+        "en": "One of the oldest central squares of Kharkiv, located in the historic city center.",
+        "ru": "Один із найстаріших центральних майданів Харкова, розташований у історичному центрі міста."
+      },
+      "lat": 49.9922,
+      "lon": 36.23115,
+      "category": "square",
+      "station_ids": [
+        4,
+        14
+      ],
+      "photo": "places_photos/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": {
+        "uk": "Майдан Оборонний Вал",
+        "en": "Oboronnyi Val Square",
+        "ru": "Майдан Оборонний Вал"
+      },
+      "description": {
+        "uk": "Великий міський майдан у центральній частині Харкова, історично відомий як площа Фейєрбаха.",
+        "en": "A large urban square in central Kharkiv, historically known as Feuerbach Square.",
+        "ru": "Великий міський майдан у центральній частині Харкова, історично відомий як площа Фейєрбаха."
+      },
+      "lat": 49.99111,
+      "lon": 36.24806,
+      "category": "square",
+      "station_ids": [
+        6,
+        29
+      ],
+      "photo": "places_photos/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": {
+        "uk": "Майдан Рибний",
+        "en": "Rybnyi Square",
+        "ru": "Майдан Рибний"
+      },
+      "description": {
+        "uk": "Невеликий історичний міський майдан у центральній частині Харкова.",
+        "en": "A small historic urban square in central Kharkiv.",
+        "ru": "Невеликий історичний міський майдан у центральній частині Харкова."
+      },
+      "lat": 49.9972,
+      "lon": 36.23101,
+      "category": "square",
+      "station_ids": [
+        15,
+        16,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 4,
+      "name": {
+        "uk": "Майдан Свободи",
+        "en": "Freedom Square",
+        "ru": "Майдан Свободи"
+      },
+      "description": {
+        "uk": "Центральний майдан Харкова, один із найбільших міських майданів Європи.",
+        "en": "The central square of Kharkiv and one of the largest city squares in Europe.",
+        "ru": "Центральний майдан Харкова, один із найбільших міських майданів Європи."
+      },
+      "lat": 50.00572,
+      "lon": 36.22919,
+      "category": "square",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": {
+        "uk": "Павлівська площа",
+        "en": "Pavlivska Square",
+        "ru": "Павлівська площа"
+      },
+      "description": {
+        "uk": "Історична площа в центральній частині Харкова, що сполучає Майдан Конституції та Сергіївську площу.",
+        "en": "A historic square in central Kharkiv connecting Constitution Square with Serhiivska Square.",
+        "ru": "Історична площа в центральній частині Харкова, що сполучає Майдан Конституції та Сергіївську площу."
+      },
+      "lat": 49.98763,
+      "lon": 36.23136,
+      "category": "square",
+      "station_ids": [
+        4,
+        14
+      ],
+      "photo": "places_photos/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": {
+        "uk": "Площа Архітекторів",
+        "en": "Architects Square",
+        "ru": "Площа Архітекторів"
+      },
+      "description": {
+        "uk": "Сучасний майдан із композицією «Сім чудес Харкова» та пам'ятником Закоханим.",
+        "en": "A modern square featuring the Seven Wonders of Kharkiv and the Lovers Monument.",
+        "ru": "Сучасний майдан із композицією «Сім чудес Харкова» та пам'ятником Закоханим."
+      },
+      "lat": 49.9984,
+      "lon": 36.23999,
+      "category": "square",
+      "station_ids": [
+        28,
+        16
+      ],
+      "photo": "places_photos/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": {
+        "uk": "Площа Героїв Небесної Сотні",
+        "en": "Heroes of the Heavenly Hundred Square",
+        "ru": "Площа Героїв Небесної Сотні"
+      },
+      "description": {
+        "uk": "Міський майдан в Основ'янському районі Харкова, присвячений пам'яті Героїв Небесної Сотні.",
+        "en": "A city square in the Osnovianskyi District dedicated to the memory of the Heroes of the Heavenly Hundred.",
+        "ru": "Міський майдан в Основ'янському районі Харкова, присвячений пам'яті Героїв Небесної Сотні."
+      },
+      "lat": 49.98611,
+      "lon": 36.24556,
+      "category": "square",
+      "station_ids": [
+        6,
+        28,
+        29
+      ],
+      "photo": "places_photos/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": {
+        "uk": "Площа Поезії",
+        "en": "Poetry Square",
+        "ru": "Площа Поезії"
+      },
+      "description": {
+        "uk": "Невеликий міський майдан біля Харківського академічного драматичного театру та вулиці Сумської.",
+        "en": "A small urban square near the Kharkiv Academic Drama Theatre and Sumska Street.",
+        "ru": "Невеликий міський майдан біля Харківського академічного драматичного театру та вулиці Сумської."
+      },
+      "lat": 49.99459,
+      "lon": 36.234,
+      "category": "square",
+      "station_ids": [
+        15,
+        16,
+        28
+      ],
+      "photo": "places_photos/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": {
+        "uk": "Привокзальна площа",
+        "en": "Privokzalna Square",
+        "ru": "Привокзальна площа"
+      },
+      "description": {
+        "uk": "Площа перед Харківським залізничним вокзалом, що є важливим транспортним вузлом міста.",
+        "en": "The square in front of Kharkiv railway station, an important transport hub of the city.",
+        "ru": "Площа перед Харківським залізничним вокзалом, що є важливим транспортним вузлом міста."
+      },
+      "lat": 49.9903,
+      "lon": 36.20597,
+      "category": "square",
+      "station_ids": [
+        2,
+        1
+      ],
+      "photo": "places_photos/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": {
+        "uk": "Сергіївська площа",
+        "en": "Serhiivska Square",
+        "ru": "Сергіївська площа"
+      },
+      "description": {
+        "uk": "Історична площа в центрі Харкова, що виникла у XVIII столітті.",
+        "en": "A historic square in central Kharkiv that originated in the 18th century.",
+        "ru": "Історична площа в центрі Харкова, що виникла у XVIII столітті."
+      },
+      "lat": 49.98889,
+      "lon": 36.22833,
+      "category": "square",
+      "station_ids": [
+        3,
+        4,
+        14
+      ],
+      "photo": "places_photos/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": {
+        "uk": "Молодіжний парк",
+        "en": "Molodizhnyi Park",
+        "ru": "Молодіжний парк"
+      },
+      "description": {
+        "uk": "Зелений парк у центральній частині Харкова з алеями, фонтаном і пам'ятними місцями.",
+        "en": "A green park in central Kharkiv with walking paths, a fountain, and memorial sites.",
+        "ru": "Зелений парк у центральній частині Харкова з алеями, фонтаном і пам'ятними місцями."
+      },
+      "lat": 50.00868,
+      "lon": 36.2519,
+      "category": "park",
+      "station_ids": [
+        16,
+        17
+      ],
+      "photo": "places_photos/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": {
+        "uk": "Парк «Зустріч»",
+        "en": "Zustrich Park",
+        "ru": "Парк «Зустріч»"
+      },
+      "description": {
+        "uk": "Парк у районі Нових Будинків із дитячими та спортивними майданчиками.",
+        "en": "A park in the Novi Budynky area with children's and sports facilities.",
+        "ru": "Парк у районі Нових Будинків із дитячими та спортивними майданчиками."
+      },
+      "lat": 49.9478,
+      "lon": 36.32958,
+      "category": "park",
+      "station_ids": [
+        9,
+        29
+      ],
+      "photo": "places_photos/12.jpg"
+    },
+    {
+      "id": 13,
+      "name": {
+        "uk": "Парк «Юність»",
+        "en": "Yunist Park",
+        "ru": "Парк «Юність»"
+      },
+      "description": {
+        "uk": "Парк у західній частині Харкова для прогулянок, відпочинку та занять спортом.",
+        "en": "A park in western Kharkiv for walking, recreation, and sports activities.",
+        "ru": "Парк у західній частині Харкова для прогулянок, відпочинку та занять спортом."
+      },
+      "lat": 49.97622,
+      "lon": 36.16262,
+      "category": "park",
+      "station_ids": [
+        1
+      ],
+      "photo": "places_photos/13.jpg"
+    },
+    {
+      "id": 14,
+      "name": {
+        "uk": "Парк Машинобудівників",
+        "en": "Mashynobudivnykiv Park",
+        "ru": "Парк Машинобудівників"
+      },
+      "description": {
+        "uk": "Великий парк у Слобідському районі Харкова з природними лісовими ділянками та алеями.",
+        "en": "A large park in the Slobidskyi District with natural wooded areas and walking paths.",
+        "ru": "Великий парк у Слобідському районі Харкова з природними лісовими ділянками та алеями."
+      },
+      "lat": 49.96914,
+      "lon": 36.2937,
+      "category": "park",
+      "station_ids": [
+        30,
+        6
+      ],
+      "photo": "places_photos/14.jpg"
+    },
+    {
+      "id": 15,
+      "name": {
+        "uk": "Парк Пам'яті",
+        "en": "Memory Park",
+        "ru": "Парк Пам'яті"
+      },
+      "description": {
+        "uk": "Меморіальний парк у Салтівському районі з пам'ятними знаками та зеленими зонами.",
+        "en": "A memorial park in the Saltivskyi District with monuments and green spaces.",
+        "ru": "Меморіальний парк у Салтівському районі з пам'ятними знаками та зеленими зонами."
+      },
+      "lat": 49.99637,
+      "lon": 36.29635,
+      "category": "park",
+      "station_ids": [
+        18,
+        19
+      ],
+      "photo": "places_photos/15.jpg"
+    },
+    {
+      "id": 16,
+      "name": {
+        "uk": "Парк Перемога",
+        "en": "Peremoha Park",
+        "ru": "Парк Перемога"
+      },
+      "description": {
+        "uk": "Великий парк на Салтівці, створений у 1985 році та призначений для відпочинку.",
+        "en": "A large park in Saltivka, established in 1985 as a recreation area.",
+        "ru": "Великий парк на Салтівці, створений у 1985 році та призначений для відпочинку."
+      },
+      "lat": 49.99139,
+      "lon": 36.33528,
+      "category": "park",
+      "station_ids": [
+        19,
+        18
+      ],
+      "photo": "places_photos/16.jpg"
+    },
+    {
+      "id": 17,
+      "name": {
+        "uk": "Сад імені Тараса Шевченка",
+        "en": "Taras Shevchenko Garden",
+        "ru": "Сад імені Тараса Шевченка"
+      },
+      "description": {
+        "uk": "Історичний парк у центрі Харкова, закладений на початку XIX століття.",
+        "en": "A historic park in central Kharkiv, established in the early 19th century.",
+        "ru": "Історичний парк у центрі Харкова, закладений на початку XIX століття."
+      },
+      "lat": 50.00198,
+      "lon": 36.23279,
+      "category": "park",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/17.jpg"
+    },
+    {
+      "id": 18,
+      "name": {
+        "uk": "Саржин Яр",
+        "en": "Sarzhyn Yar",
+        "ru": "Саржин Яр"
+      },
+      "description": {
+        "uk": "Природна паркова зона з джерелом мінеральної води та прогулянковими алеями.",
+        "en": "A natural park area with a mineral spring and walking paths.",
+        "ru": "Природна паркова зона з джерелом мінеральної води та прогулянковими алеями."
+      },
+      "lat": 50.02611,
+      "lon": 36.22833,
+      "category": "park",
+      "station_ids": [
+        25,
+        24
+      ],
+      "photo": "places_photos/18.jpg"
+    },
+    {
+      "id": 19,
+      "name": {
+        "uk": "Харківський Лісопарк",
+        "en": "Kharkiv Forest Park",
+        "ru": "Харківський Лісопарк"
+      },
+      "description": {
+        "uk": "Велика лісова зона та місце для прогулянок і відпочинку на північному заході Харкова.",
+        "en": "A large forest area and recreation zone in the northwestern part of Kharkiv.",
+        "ru": "Велика лісова зона та місце для прогулянок і відпочинку на північному заході Харкова."
+      },
+      "lat": 50.04083,
+      "lon": 36.2575,
+      "category": "park",
+      "station_ids": [
+        27,
+        16
+      ],
+      "photo": "places_photos/19.jpg"
+    },
+    {
+      "id": 20,
+      "name": {
+        "uk": "Центральний парк",
+        "en": "Central Park",
+        "ru": "Центральний парк"
+      },
+      "description": {
+        "uk": "Один із найбільших парків Харкова з алеями, атракціонами та зонами відпочинку.",
+        "en": "One of the largest parks in Kharkiv with walking alleys, attractions, and recreation areas.",
+        "ru": "Один із найбільших парків Харкова з алеями, атракціонами та зонами відпочинку."
+      },
+      "lat": 50.01993,
+      "lon": 36.24669,
+      "category": "park",
+      "station_ids": [
+        27,
+        16
+      ],
+      "photo": "places_photos/20.jpg"
+    },
+    {
+      "id": 21,
+      "name": {
+        "uk": "Державний музей природи ХНУ імені В. Н. Каразіна",
+        "en": "State Museum of Nature of V. N. Karazin Kharkiv National University",
+        "ru": "Державний музей природи ХНУ імені В. Н. Каразіна"
+      },
+      "description": {
+        "uk": "Музей із колекціями тварин, рослин, мінералів та археологічних знахідок.",
+        "en": "A museum with collections of animals, plants, minerals and archaeological finds.",
+        "ru": "Музей із колекціями тварин, рослин, мінералів та археологічних знахідок."
+      },
+      "lat": 50.008161,
+      "lon": 36.23605,
+      "category": "museum",
+      "station_ids": [
+        15,
+        16
+      ],
+      "photo": "places_photos/21.jpg"
+    },
+    {
+      "id": 22,
+      "name": {
+        "uk": "Музей видатних харків'ян імені К. І. Шульженко",
+        "en": "Museum of Prominent Kharkiv Residents named after K. I. Shulzhenko",
+        "ru": "Музей видатних харків'ян імені К. І. Шульженко"
+      },
+      "description": {
+        "uk": "Музей, присвячений відомим харків'янам та історії їхнього життя і діяльності.",
+        "en": "A museum dedicated to prominent Kharkiv residents and their lives and activities.",
+        "ru": "Музей, присвячений відомим харків'янам та історії їхнього життя і діяльності."
+      },
+      "lat": 49.98976,
+      "lon": 36.27036,
+      "category": "museum",
+      "station_ids": [
+        17,
+        29
+      ],
+      "photo": "places_photos/22.jpg"
+    },
+    {
+      "id": 23,
+      "name": {
+        "uk": "Музей керамічної плитки та сантехніки",
+        "en": "Museum of Ceramic Tiles and Plumbing",
+        "ru": "Музей керамічної плитки та сантехніки"
+      },
+      "description": {
+        "uk": "Музей, у якому представлені експонати з історії виробництва керамічної плитки та сантехніки.",
+        "en": "A museum featuring exhibits on the history of ceramic tile and plumbing production.",
+        "ru": "Музей, у якому представлені експонати з історії виробництва керамічної плитки та сантехніки."
+      },
+      "lat": 49.966274,
+      "lon": 36.322893,
+      "category": "museum",
+      "station_ids": [
+        7,
+        8
+      ],
+      "photo": "places_photos/23.jpg"
+    },
+    {
+      "id": 24,
+      "name": {
+        "uk": "Музей космонавтики та уфології Харківського планетарію",
+        "en": "Museum of Cosmonautics and Ufology of Kharkiv Planetarium",
+        "ru": "Музей космонавтики та уфології Харківського планетарію"
+      },
+      "description": {
+        "uk": "Музей, присвячений космонавтиці, дослідженню космосу та історії уявлень про позаземні явища.",
+        "en": "A museum dedicated to cosmonautics, space exploration and the history of ideas about extraterrestrial phenomena.",
+        "ru": "Музей, присвячений космонавтиці, дослідженню космосу та історії уявлень про позаземні явища."
+      },
+      "lat": 49.995739,
+      "lon": 36.22875,
+      "category": "museum",
+      "station_ids": [
+        3,
+        14
+      ],
+      "photo": "places_photos/24.jpg"
+    },
+    {
+      "id": 25,
+      "name": {
+        "uk": "Музей історії та залізничної техніки Південної залізниці",
+        "en": "Museum of History and Railway Technology of the Southern Railway",
+        "ru": "Музей історії та залізничної техніки Південної залізниці"
+      },
+      "description": {
+        "uk": "Музей, де представлені історія залізниці та зразки залізничного рухомого складу.",
+        "en": "A museum presenting the history of the railway and examples of railway rolling stock.",
+        "ru": "Музей, де представлені історія залізниці та зразки залізничного рухомого складу."
+      },
+      "lat": 49.992264,
+      "lon": 36.207842,
+      "category": "museum",
+      "station_ids": [
+        2,
+        1
+      ],
+      "photo": "places_photos/25.jpg"
+    },
+    {
+      "id": 26,
+      "name": {
+        "uk": "Харківський літературний музей",
+        "en": "Kharkiv Literary Museum",
+        "ru": "Харківський літературний музей"
+      },
+      "description": {
+        "uk": "Музей, присвячений українській літературі та літературній історії Слобожанщини.",
+        "en": "A museum dedicated to Ukrainian literature and the literary history of Slobozhanshchyna.",
+        "ru": "Музей, присвячений українській літературі та літературній історії Слобожанщини."
+      },
+      "lat": 50.001165,
+      "lon": 36.245619,
+      "category": "museum",
+      "station_ids": [
+        16,
+        15
+      ],
+      "photo": "places_photos/26.jpg"
+    },
+    {
+      "id": 27,
+      "name": {
+        "uk": "Харківський морський музей",
+        "en": "Kharkiv Maritime Museum",
+        "ru": "Харківський морський музей"
+      },
+      "description": {
+        "uk": "Музей, присвячений історії мореплавства, суднобудування та розвитку морської техніки.",
+        "en": "A museum dedicated to the history of navigation, shipbuilding and maritime technology.",
+        "ru": "Музей, присвячений історії мореплавства, суднобудування та розвитку морської техніки."
+      },
+      "lat": 49.99917,
+      "lon": 36.24024,
+      "category": "museum",
+      "station_ids": [
+        16,
+        28
+      ],
+      "photo": "places_photos/27.jpg"
+    },
+    {
+      "id": 28,
+      "name": {
+        "uk": "Харківський музей ляльок",
+        "en": "Kharkiv Puppet Museum",
+        "ru": "Харківський музей ляльок"
+      },
+      "description": {
+        "uk": "Музей із колекцією театральних ляльок та матеріалами з історії лялькового театру.",
+        "en": "A museum with a collection of theatrical puppets and materials about the history of puppet theatre.",
+        "ru": "Музей із колекцією театральних ляльок та матеріалами з історії лялькового театру."
+      },
+      "lat": 49.992172,
+      "lon": 36.232462,
+      "category": "museum",
+      "station_ids": [
+        14,
+        4
+      ],
+      "photo": "places_photos/28.jpg"
+    },
+    {
+      "id": 29,
+      "name": {
+        "uk": "Харківський художній музей",
+        "en": "Kharkiv Art Museum",
+        "ru": "Харківський художній музей"
+      },
+      "description": {
+        "uk": "Музей із колекціями українського та зарубіжного образотворчого мистецтва.",
+        "en": "A museum with collections of Ukrainian and international fine art.",
+        "ru": "Музей із колекціями українського та зарубіжного образотворчого мистецтва."
+      },
+      "lat": 49.999162,
+      "lon": 36.238595,
+      "category": "museum",
+      "station_ids": [
+        16,
+        28
+      ],
+      "photo": "places_photos/29.jpg"
+    },
+    {
+      "id": 30,
+      "name": {
+        "uk": "Харківський історичний музей імені М. Ф. Сумцова",
+        "en": "M. F. Sumtsov Kharkiv Historical Museum",
+        "ru": "Харківський історичний музей імені М. Ф. Сумцова"
+      },
+      "description": {
+        "uk": "Один із найбільших музеїв України, присвячений історії Харкова та Слобожанщини.",
+        "en": "One of the largest museums in Ukraine, dedicated to the history of Kharkiv and Slobozhanshchyna.",
+        "ru": "Один із найбільших музеїв України, присвячений історії Харкова та Слобожанщини."
+      },
+      "lat": 49.992628,
+      "lon": 36.230999,
+      "category": "museum",
+      "station_ids": [
+        14,
+        4
+      ],
+      "photo": "places_photos/30.jpg"
+    },
+    {
+      "id": 31,
+      "name": {
+        "uk": "Театр 19",
+        "en": "Theatre 19",
+        "ru": "Театр 19"
+      },
+      "description": {
+        "uk": "Харківський недержавний театр, відомий сучасними драматичними постановками.",
+        "en": "A non-state Kharkiv theatre known for contemporary drama productions.",
+        "ru": "Харківський недержавний театр, відомий сучасними драматичними постановками."
+      },
+      "lat": 50.0014,
+      "lon": 36.247,
+      "category": "theater",
+      "station_ids": [
+        28,
+        16
+      ],
+      "photo": ""
+    },
+    {
+      "id": 32,
+      "name": {
+        "uk": "Театр «Арабески»",
+        "en": "Arabesky Theatre",
+        "ru": "Театр «Арабески»"
+      },
+      "description": {
+        "uk": "Український авангардний театр, що працює з театральними та мистецькими проєктами.",
+        "en": "A Ukrainian avant-garde theatre working on theatrical and artistic projects.",
+        "ru": "Український авангардний театр, що працює з театральними та мистецькими проєктами."
+      },
+      "lat": 49.9955,
+      "lon": 36.246,
+      "category": "theater",
+      "station_ids": [
+        4,
+        15
+      ],
+      "photo": "places_photos/32.jpg"
+    },
+    {
+      "id": 33,
+      "name": {
+        "uk": "Театр на Жуках",
+        "en": "Theatre on Zhuky",
+        "ru": "Театр на Жуках"
+      },
+      "description": {
+        "uk": "Незалежний театр Харкова, розташований у районі Жуківського.",
+        "en": "An independent Kharkiv theatre located in the Zhukovsky area.",
+        "ru": "Незалежний театр Харкова, розташований у районі Жуківського."
+      },
+      "lat": 50.0712,
+      "lon": 36.2685,
+      "category": "theater",
+      "station_ids": [
+        24,
+        25
+      ],
+      "photo": "places_photos/33.jpg"
+    },
+    {
+      "id": 34,
+      "name": {
+        "uk": "Харківський академічний драматичний театр імені О. С. Пушкіна",
+        "en": "O. S. Pushkin Kharkiv Academic Drama Theatre",
+        "ru": "Харківський академічний драматичний театр імені О. С. Пушкіна"
+      },
+      "description": {
+        "uk": "Драматичний театр у центральній частині Харкова.",
+        "en": "A drama theatre located in central Kharkiv.",
+        "ru": "Драматичний театр у центральній частині Харкова."
+      },
+      "lat": 50.0038,
+      "lon": 36.2422,
+      "category": "theater",
+      "station_ids": [
+        16,
+        28
+      ],
+      "photo": "places_photos/34.jpg"
+    },
+    {
+      "id": 35,
+      "name": {
+        "uk": "Харківський академічний театр музичної комедії",
+        "en": "Kharkiv Academic Theatre of Musical Comedy",
+        "ru": "Харківський академічний театр музичної комедії"
+      },
+      "description": {
+        "uk": "Театр, у репертуарі якого є оперети, мюзикли та музичні комедії.",
+        "en": "A theatre whose repertoire includes operettas, musicals and musical comedies.",
+        "ru": "Театр, у репертуарі якого є оперети, мюзикли та музичні комедії."
+      },
+      "lat": 49.9922,
+      "lon": 36.211,
+      "category": "theater",
+      "station_ids": [
+        3,
+        4
+      ],
+      "photo": "places_photos/35.jpg"
+    },
+    {
+      "id": 36,
+      "name": {
+        "uk": "Харківський академічний український драматичний театр імені Тараса Шевченка",
+        "en": "Taras Shevchenko Kharkiv Academic Ukrainian Drama Theatre",
+        "ru": "Харківський академічний український драматичний театр імені Тараса Шевченка"
+      },
+      "description": {
+        "uk": "Український драматичний театр у центрі Харкова з багатою історією.",
+        "en": "A Ukrainian drama theatre in central Kharkiv with a rich history.",
+        "ru": "Український драматичний театр у центрі Харкова з багатою історією."
+      },
+      "lat": 50.0017,
+      "lon": 36.2293,
+      "category": "theater",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/36.jpg"
+    },
+    {
+      "id": 37,
+      "name": {
+        "uk": "Харківський державний академічний театр ляльок імені В. А. Афанасьєва",
+        "en": "V. A. Afanasiev Kharkiv State Academic Puppet Theatre",
+        "ru": "Харківський державний академічний театр ляльок імені В. А. Афанасьєва"
+      },
+      "description": {
+        "uk": "Театр ляльок, який створює вистави для дітей та дорослих.",
+        "en": "A puppet theatre presenting performances for children and adults.",
+        "ru": "Театр ляльок, який створює вистави для дітей та дорослих."
+      },
+      "lat": 49.9927,
+      "lon": 36.2308,
+      "category": "theater",
+      "station_ids": [
+        4,
+        14
+      ],
+      "photo": "places_photos/37.jpg"
+    },
+    {
+      "id": 38,
+      "name": {
+        "uk": "Харківський національний академічний театр опери та балету імені М. В. Лисенка",
+        "en": "M. V. Lysenko Kharkiv National Academic Opera and Ballet Theatre",
+        "ru": "Харківський національний академічний театр опери та балету імені М. В. Лисенка"
+      },
+      "description": {
+        "uk": "Один із головних театрів Харкова, де проходять оперні та балетні вистави.",
+        "en": "One of Kharkiv's main theatres, hosting opera and ballet performances.",
+        "ru": "Один із головних театрів Харкова, де проходять оперні та балетні вистави."
+      },
+      "lat": 50.0047,
+      "lon": 36.2312,
+      "category": "theater",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/38.jpg"
+    },
+    {
+      "id": 39,
+      "name": {
+        "uk": "Харківський театр «Нова сцена»",
+        "en": "Nova Stsena Theatre",
+        "ru": "Харківський театр «Нова сцена»"
+      },
+      "description": {
+        "uk": "Незалежний театральний колектив, що працює у сфері сучасного театрального мистецтва.",
+        "en": "An independent theatre group working in contemporary theatre and performing arts.",
+        "ru": "Незалежний театральний колектив, що працює у сфері сучасного театрального мистецтва."
+      },
+      "lat": 50.0014,
+      "lon": 36.247,
+      "category": "theater",
+      "station_ids": [
+        28,
+        16
+      ],
+      "photo": "places_photos/39.jpg"
+    },
+    {
+      "id": 40,
+      "name": {
+        "uk": "Харківський театр для дітей та юнацтва",
+        "en": "Kharkiv Theatre for Children and Youth",
+        "ru": "Харківський театр для дітей та юнацтва"
+      },
+      "description": {
+        "uk": "Театр, орієнтований на дитячу та юнацьку аудиторію.",
+        "en": "A theatre focused on performances for children and young audiences.",
+        "ru": "Театр, орієнтований на дитячу та юнацьку аудиторію."
+      },
+      "lat": 49.9869,
+      "lon": 36.1948,
+      "category": "theater",
+      "station_ids": [
+        3,
+        4
+      ],
+      "photo": "places_photos/40.jpg"
+    },
+    {
+      "id": 41,
+      "name": {
+        "uk": "Будинок «Саламандра»",
+        "en": "Salamandra Building",
+        "ru": "Будинок «Саламандра»"
+      },
+      "description": {
+        "uk": "Історичний прибутковий будинок початку XX століття на вулиці Сумській, відомий багатим декоративним оформленням.",
+        "en": "An early 20th-century historic apartment building on Sumska Street, known for its rich decorative design.",
+        "ru": "Історичний прибутковий будинок початку XX століття на вулиці Сумській, відомий багатим декоративним оформленням."
+      },
+      "lat": 49.9968,
+      "lon": 36.2328,
+      "category": "historic_building",
+      "station_ids": [
+        14,
+        28
+      ],
+      "photo": "places_photos/41.jpg"
+    },
+    {
+      "id": 42,
+      "name": {
+        "uk": "Будинок Аладьїних",
+        "en": "Aladynykh House",
+        "ru": "Будинок Аладьїних"
+      },
+      "description": {
+        "uk": "Історичний будинок 1912 року на вулиці Сумській, споруджений у стилі еклектики з елементами модерну.",
+        "en": "A historic 1912 building on Sumska Street, built in an eclectic style with Art Nouveau elements.",
+        "ru": "Історичний будинок 1912 року на вулиці Сумській, споруджений у стилі еклектики з елементами модерну."
+      },
+      "lat": 50.001,
+      "lon": 36.2352,
+      "category": "historic_building",
+      "station_ids": [
+        27,
+        15,
+        26
+      ],
+      "photo": "places_photos/42.jpg"
+    },
+    {
+      "id": 43,
+      "name": {
+        "uk": "Будинок Державної промисловості",
+        "en": "Derzhprom Building",
+        "ru": "Будинок Державної промисловості"
+      },
+      "description": {
+        "uk": "Відомий комплекс будівель 1920-х років у стилі конструктивізму на майдані Свободи.",
+        "en": "A famous complex of buildings from the 1920s in the Constructivist style on Freedom Square.",
+        "ru": "Відомий комплекс будівель 1920-х років у стилі конструктивізму на майдані Свободи."
+      },
+      "lat": 50.0041,
+      "lon": 36.2277,
+      "category": "historic_building",
+      "station_ids": [
+        27,
+        15
+      ],
+      "photo": "places_photos/43.jpg"
+    },
+    {
+      "id": 44,
+      "name": {
+        "uk": "Будинок генерал-губернатора",
+        "en": "Governor-General's House",
+        "ru": "Будинок генерал-губернатора"
+      },
+      "description": {
+        "uk": "Історична будівля XVIII століття, зведена у стилі бароко. У минулому тут розміщувався Харківський університет.",
+        "en": "An 18th-century historic building constructed in the Baroque style. It once housed Kharkiv University.",
+        "ru": "Історична будівля XVIII століття, зведена у стилі бароко. У минулому тут розміщувався Харківський університет."
+      },
+      "lat": 49.9887,
+      "lon": 36.2299,
+      "category": "historic_building",
+      "station_ids": [
+        3,
+        14,
+        4
+      ],
+      "photo": "places_photos/44.jpg"
+    },
+    {
+      "id": 45,
+      "name": {
+        "uk": "Будівля Північного банку",
+        "en": "Northern Bank Building",
+        "ru": "Будівля Північного банку"
+      },
+      "description": {
+        "uk": "Історична банківська будівля на початку вулиці Сумської, пам'ятка архітектури та містобудування.",
+        "en": "A historic bank building at the beginning of Sumska Street and a protected architectural and urban-planning monument.",
+        "ru": "Історична банківська будівля на початку вулиці Сумської, пам'ятка архітектури та містобудування."
+      },
+      "lat": 49.9936,
+      "lon": 36.2319,
+      "category": "historic_building",
+      "station_ids": [
+        14,
+        28
+      ],
+      "photo": "places_photos/45.jpg"
+    },
+    {
+      "id": 46,
+      "name": {
+        "uk": "Держбанк на Театральному майдані",
+        "en": "State Bank Building on Teatralnyi Square",
+        "ru": "Держбанк на Театральному майдані"
+      },
+      "description": {
+        "uk": "Історична будівля Державного банку, споруджена на початку XX століття та пізніше перебудована.",
+        "en": "A historic State Bank building constructed in the early 20th century and later reconstructed.",
+        "ru": "Історична будівля Державного банку, споруджена на початку XX століття та пізніше перебудована."
+      },
+      "lat": 49.9949,
+      "lon": 36.231,
+      "category": "historic_building",
+      "station_ids": [
+        14,
+        28
+      ],
+      "photo": "places_photos/46.jpg"
+    },
+    {
+      "id": 47,
+      "name": {
+        "uk": "Покровський собор",
+        "en": "Intercession Cathedral",
+        "ru": "Покровський собор"
+      },
+      "description": {
+        "uk": "Найстаріший збережений храм Харкова, побудований у 1689 році в стилі українського бароко.",
+        "en": "The oldest surviving church in Kharkiv, built in 1689 in the Ukrainian Baroque style.",
+        "ru": "Найстаріший збережений храм Харкова, побудований у 1689 році в стилі українського бароко."
+      },
+      "lat": 49.9917,
+      "lon": 36.2287,
+      "category": "historic_building",
+      "station_ids": [
+        14,
+        3,
+        4
+      ],
+      "photo": ""
+    },
+    {
+      "id": 48,
+      "name": {
+        "uk": "Прибутковий будинок Диканського",
+        "en": "Dykansky Apartment Building",
+        "ru": "Прибутковий будинок Диканського"
+      },
+      "description": {
+        "uk": "Історичний прибутковий будинок на вулиці Сумській, пам'ятка архітектури початку XX століття.",
+        "en": "A historic apartment building on Sumska Street and an architectural monument from the early 20th century.",
+        "ru": "Історичний прибутковий будинок на вулиці Сумській, пам'ятка архітектури початку XX століття."
+      },
+      "lat": 50.0089,
+      "lon": 36.2395,
+      "category": "historic_building",
+      "station_ids": [
+        15,
+        26,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 49,
+      "name": {
+        "uk": "Свято-Благовіщенський кафедральний собор",
+        "en": "Holy Annunciation Cathedral",
+        "ru": "Свято-Благовіщенський кафедральний собор"
+      },
+      "description": {
+        "uk": "Величний собор кінця XIX — початку XX століття, збудований у неовізантійському стилі.",
+        "en": "A grand cathedral from the late 19th and early 20th centuries, built in the Neo-Byzantine style.",
+        "ru": "Величний собор кінця XIX — початку XX століття, збудований у неовізантійському стилі."
+      },
+      "lat": 49.9904,
+      "lon": 36.2242,
+      "category": "historic_building",
+      "station_ids": [
+        3,
+        14
+      ],
+      "photo": ""
+    },
+    {
+      "id": 50,
+      "name": {
+        "uk": "Свято-Успенський собор",
+        "en": "Holy Assumption Cathedral",
+        "ru": "Свято-Успенський собор"
+      },
+      "description": {
+        "uk": "Історичний собор XVIII століття в центрі Харкова, відомий своєю архітектурою та дзвіницею.",
+        "en": "An historic 18th-century cathedral in central Kharkiv, known for its architecture and bell tower.",
+        "ru": "Історичний собор XVIII століття в центрі Харкова, відомий своєю архітектурою та дзвіницею."
+      },
+      "lat": 49.9899,
+      "lon": 36.2308,
+      "category": "historic_building",
+      "station_ids": [
+        14,
+        4,
+        28
+      ],
+      "photo": ""
+    },
+    {
+      "id": 51,
+      "name": {
+        "uk": "Благовіщенський собор",
+        "en": "Annunciation Cathedral",
+        "ru": "Благовіщенський собор"
+      },
+      "description": {
+        "uk": "Величний собор у неовізантійському стилі, сучасну будівлю якого споруджували у 1888–1901 роках.",
+        "en": "A grand Neo-Byzantine cathedral whose present building was constructed between 1888 and 1901.",
+        "ru": "Величний собор у неовізантійському стилі, сучасну будівлю якого споруджували у 1888–1901 роках."
+      },
+      "lat": 49.990234,
+      "lon": 36.224116,
+      "category": "architectural_landmark",
+      "station_ids": [
+        3,
+        4
+      ],
+      "photo": ""
+    },
+    {
+      "id": 52,
+      "name": {
+        "uk": "Будинок з химерами",
+        "en": "House with Chimeras",
+        "ru": "Будинок з химерами"
+      },
+      "description": {
+        "uk": "Оригінальна пам'ятка архітектури 1912–1914 років у стилі модерн з елементами англійської готики.",
+        "en": "An unusual architectural landmark built in 1912–1914 in the Art Nouveau style with English Gothic elements.",
+        "ru": "Оригінальна пам'ятка архітектури 1912–1914 років у стилі модерн з елементами англійської готики."
+      },
+      "lat": 50.008056,
+      "lon": 36.242778,
+      "category": "architectural_landmark",
+      "station_ids": [
+        16,
+        17
+      ],
+      "photo": ""
+    },
+    {
+      "id": 53,
+      "name": {
+        "uk": "Будинок зі шпилем",
+        "en": "House with a Spire",
+        "ru": "Будинок зі шпилем"
+      },
+      "description": {
+        "uk": "Відомий історичний житловий будинок на майдані Конституції, збудований у 1950–1954 роках.",
+        "en": "A famous historic residential building on Constitution Square, built between 1950 and 1954.",
+        "ru": "Відомий історичний житловий будинок на майдані Конституції, збудований у 1950–1954 роках."
+      },
+      "lat": 49.9888889,
+      "lon": 36.2336111,
+      "category": "architectural_landmark",
+      "station_ids": [
+        4,
+        14
+      ],
+      "photo": ""
+    },
+    {
+      "id": 54,
+      "name": {
+        "uk": "Губернаторський будинок",
+        "en": "Governor's House",
+        "ru": "Губернаторський будинок"
+      },
+      "description": {
+        "uk": "Історична будівля на Університетській вулиці, споруджена у XVIII столітті як резиденція харківського губернатора.",
+        "en": "A historic building on Universytetska Street, constructed in the 18th century as the residence of the Kharkiv governor.",
+        "ru": "Історична будівля на Університетській вулиці, споруджена у XVIII столітті як резиденція харківського губернатора."
+      },
+      "lat": 49.990782,
+      "lon": 36.228313,
+      "category": "architectural_landmark",
+      "station_ids": [
+        3,
+        4,
+        14
+      ],
+      "photo": ""
+    },
+    {
+      "id": 55,
+      "name": {
+        "uk": "Держпром",
+        "en": "Derzhprom",
+        "ru": "Держпром"
+      },
+      "description": {
+        "uk": "Відомий комплекс конструктивістських будівель на майдані Свободи, споруджений у 1926–1928 роках.",
+        "en": "A famous Constructivist building complex on Freedom Square, constructed between 1926 and 1928.",
+        "ru": "Відомий комплекс конструктивістських будівель на майдані Свободи, споруджений у 1926–1928 роках."
+      },
+      "lat": 50.004352,
+      "lon": 36.231119,
+      "category": "architectural_landmark",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 56,
+      "name": {
+        "uk": "Комплекс Харківського університету",
+        "en": "Kharkiv University Historic Complex",
+        "ru": "Комплекс Харківського університету"
+      },
+      "description": {
+        "uk": "Історичний комплекс будівель Харківського університету, сформований у XVIII–XIX століттях на Університетській вулиці.",
+        "en": "A historic complex of Kharkiv University buildings developed in the 18th and 19th centuries on Universytetska Street.",
+        "ru": "Історичний комплекс будівель Харківського університету, сформований у XVIII–XIX століттях на Університетській вулиці."
+      },
+      "lat": 49.990646,
+      "lon": 36.228973,
+      "category": "architectural_landmark",
+      "station_ids": [
+        3,
+        4,
+        14
+      ],
+      "photo": "places_photos/56.jpg"
+    },
+    {
+      "id": 57,
+      "name": {
+        "uk": "Палац праці",
+        "en": "Palace of Labor",
+        "ru": "Палац праці"
+      },
+      "description": {
+        "uk": "Велика історична будівля на майдані Конституції, споруджена на початку 1930-х років.",
+        "en": "A large historic building on Constitution Square, constructed in the early 1930s.",
+        "ru": "Велика історична будівля на майдані Конституції, споруджена на початку 1930-х років."
+      },
+      "lat": 49.988808,
+      "lon": 36.23234,
+      "category": "architectural_landmark",
+      "station_ids": [
+        4,
+        14
+      ],
+      "photo": ""
+    },
+    {
+      "id": 58,
+      "name": {
+        "uk": "Успенський собор",
+        "en": "Assumption Cathedral",
+        "ru": "Успенський собор"
+      },
+      "description": {
+        "uk": "Історичний собор XVIII століття з відомою дзвіницею, яка є однією з архітектурних домінант центру Харкова.",
+        "en": "An 18th-century historic cathedral with a famous bell tower that is one of the architectural landmarks of central Kharkiv.",
+        "ru": "Історичний собор XVIII століття з відомою дзвіницею, яка є однією з архітектурних домінант центру Харкова."
+      },
+      "lat": 49.989889,
+      "lon": 36.230361,
+      "category": "architectural_landmark",
+      "station_ids": [
+        3,
+        4,
+        14
+      ],
+      "photo": ""
+    },
+    {
+      "id": 59,
+      "name": {
+        "uk": "Харківська хоральна синагога",
+        "en": "Kharkiv Choral Synagogue",
+        "ru": "Харківська хоральна синагога"
+      },
+      "description": {
+        "uk": "Історична синагога початку XX століття, збудована в неоготичному та мавританському стилях.",
+        "en": "A historic early 20th-century synagogue built in Neo-Gothic and Moorish styles.",
+        "ru": "Історична синагога початку XX століття, збудована в неоготичному та мавританському стилях."
+      },
+      "lat": 49.9924389,
+      "lon": 36.2348639,
+      "category": "architectural_landmark",
+      "station_ids": [
+        14,
+        28
+      ],
+      "photo": ""
+    },
+    {
+      "id": 60,
+      "name": {
+        "uk": "Свято-Дмитрівський храм",
+        "en": "St. Demetrius Church",
+        "ru": "Свято-Дмитрівський храм"
+      },
+      "description": {
+        "uk": "Історичний храм Харкова, розташований у центральній частині міста.",
+        "en": "A historic church in the central part of Kharkiv.",
+        "ru": "Історичний храм Харкова, розташований у центральній частині міста."
+      },
+      "lat": 49.987721,
+      "lon": 36.214314,
+      "category": "church",
+      "station_ids": [
+        3,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 61,
+      "name": {
+        "uk": "Свято-Пантелеймонівська церква",
+        "en": "St. Panteleimon Church",
+        "ru": "Свято-Пантелеймонівська церква"
+      },
+      "description": {
+        "uk": "Храм кінця XIX століття на Клочківській вулиці, виконаний у русько-візантійському стилі.",
+        "en": "A late 19th-century church on Klochkivska Street, built in the Russian-Byzantine style.",
+        "ru": "Храм кінця XIX століття на Клочківській вулиці, виконаний у русько-візантійському стилі."
+      },
+      "lat": 50.001389,
+      "lon": 36.219722,
+      "category": "church",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 62,
+      "name": {
+        "uk": "Собор Успіння Пресвятої Богородиці",
+        "en": "Dormition Cathedral",
+        "ru": "Собор Успіння Пресвятої Богородиці"
+      },
+      "description": {
+        "uk": "Один із найдавніших соборів Харкова, розташований на Університетській гірці біля річки Лопань.",
+        "en": "One of the oldest cathedrals in Kharkiv, located on University Hill near the Lopan River.",
+        "ru": "Один із найдавніших соборів Харкова, розташований на Університетській гірці біля річки Лопань."
+      },
+      "lat": 49.989908,
+      "lon": 36.230701,
+      "category": "church",
+      "station_ids": [
+        4,
+        14,
+        28
+      ],
+      "photo": ""
+    },
+    {
+      "id": 63,
+      "name": {
+        "uk": "Храм Святого Духа",
+        "en": "Church of the Holy Spirit",
+        "ru": "Храм Святого Духа"
+      },
+      "description": {
+        "uk": "Православний храм у східній частині Харкова на проспекті Героїв Харкова.",
+        "en": "An Orthodox church in the eastern part of Kharkiv on Heroes of Kharkiv Avenue.",
+        "ru": "Православний храм у східній частині Харкова на проспекті Героїв Харкова."
+      },
+      "lat": 49.990263,
+      "lon": 36.268114,
+      "category": "church",
+      "station_ids": [
+        17,
+        29
+      ],
+      "photo": ""
+    },
+    {
+      "id": 64,
+      "name": {
+        "uk": "Храм на честь святого мученика Іоана Воїна",
+        "en": "Church of St. Martyr John the Warrior",
+        "ru": "Храм на честь святого мученика Іоана Воїна"
+      },
+      "description": {
+        "uk": "Храм на території військового інституту на Полтавському шляху в Харкові.",
+        "en": "A church located on the grounds of the military institute on Poltavskyi Shliakh in Kharkiv.",
+        "ru": "Храм на території військового інституту на Полтавському шляху в Харкові."
+      },
+      "lat": 49.974592,
+      "lon": 36.165408,
+      "category": "church",
+      "station_ids": [
+        1,
+        2
+      ],
+      "photo": ""
+    },
+    {
+      "id": 65,
+      "name": {
+        "uk": "Храм святого апостола Іоана Богослова",
+        "en": "Church of St. John the Apostle and Evangelist",
+        "ru": "Храм святого апостола Іоана Богослова"
+      },
+      "description": {
+        "uk": "Історичний храм на Великій Панасівській вулиці, відомий своєю архітектурою та релігійними святинями.",
+        "en": "A historic church on Velyka Panasivska Street, known for its architecture and religious relics.",
+        "ru": "Історичний храм на Великій Панасівській вулиці, відомий своєю архітектурою та релігійними святинями."
+      },
+      "lat": 50.005436,
+      "lon": 36.19993,
+      "category": "church",
+      "station_ids": [
+        2,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 66,
+      "name": {
+        "uk": "Храм святого апостола Андрія Первозваного",
+        "en": "Church of St. Andrew the First-Called",
+        "ru": "Храм святого апостола Андрія Первозваного"
+      },
+      "description": {
+        "uk": "Храм, присвячений святому апостолу Андрію Первозваному, розташований на Семінарській вулиці.",
+        "en": "A church dedicated to Saint Andrew the First-Called, located on Seminariska Street.",
+        "ru": "Храм, присвячений святому апостолу Андрію Первозваному, розташований на Семінарській вулиці."
+      },
+      "lat": 49.982932,
+      "lon": 36.198187,
+      "category": "church",
+      "station_ids": [
+        1,
+        3
+      ],
+      "photo": ""
+    },
+    {
+      "id": 67,
+      "name": {
+        "uk": "Храм святого великомученика і цілителя Пантелеймона",
+        "en": "Church of St. Panteleimon the Great Martyr and Healer",
+        "ru": "Храм святого великомученика і цілителя Пантелеймона"
+      },
+      "description": {
+        "uk": "Православний храм у Харкові, присвячений святому великомученику та цілителю Пантелеймону.",
+        "en": "An Orthodox church in Kharkiv dedicated to St. Panteleimon the Great Martyr and Healer.",
+        "ru": "Православний храм у Харкові, присвячений святому великомученику та цілителю Пантелеймону."
+      },
+      "lat": 49.952817,
+      "lon": 36.307136,
+      "category": "church",
+      "station_ids": [
+        13,
+        29
+      ],
+      "photo": ""
+    },
+    {
+      "id": 68,
+      "name": {
+        "uk": "Бібліотека Харківської державної академії культури",
+        "en": "Library of Kharkiv State Academy of Culture",
+        "ru": "Бібліотека Харківської державної академії культури"
+      },
+      "description": {
+        "uk": "Бібліотека академії культури з навчальними та спеціалізованими виданнями.",
+        "en": "The library of the Academy of Culture with educational and specialized publications.",
+        "ru": "Бібліотека академії культури з навчальними та спеціалізованими виданнями."
+      },
+      "lat": 49.993889,
+      "lon": 36.228889,
+      "category": "library",
+      "station_ids": [
+        14,
+        4
+      ],
+      "photo": ""
+    },
+    {
+      "id": 69,
+      "name": {
+        "uk": "Наукова бібліотека ХНУРЕ",
+        "en": "Scientific Library of KhNURE",
+        "ru": "Наукова бібліотека ХНУРЕ"
+      },
+      "description": {
+        "uk": "Університетська бібліотека Харківського національного університету радіоелектроніки.",
+        "en": "The university library of Kharkiv National University of Radio Electronics.",
+        "ru": "Університетська бібліотека Харківського національного університету радіоелектроніки."
+      },
+      "lat": 50.015,
+      "lon": 36.227778,
+      "category": "library",
+      "station_ids": [
+        15,
+        16
+      ],
+      "photo": "places_photos/69.jpg"
+    },
+    {
+      "id": 70,
+      "name": {
+        "uk": "Наукова бібліотека Харківського національного університету міського господарства імені О. М. Бекетова",
+        "en": "Scientific Library of O. M. Beketov National University of Urban Economy in Kharkiv",
+        "ru": "Наукова бібліотека Харківського національного університету міського господарства імені О. М. Бекетова"
+      },
+      "description": {
+        "uk": "Університетська бібліотека з навчальною та науковою літературою.",
+        "en": "A university library with educational and scientific literature.",
+        "ru": "Університетська бібліотека з навчальною та науковою літературою."
+      },
+      "lat": 49.994835,
+      "lon": 36.24214,
+      "category": "library",
+      "station_ids": [
+        28,
+        15
+      ],
+      "photo": "places_photos/70.jpg"
+    },
+    {
+      "id": 71,
+      "name": {
+        "uk": "Науково-технічна бібліотека НТУ «ХПІ»",
+        "en": "Scientific and Technical Library of NTU KhPI",
+        "ru": "Науково-технічна бібліотека НТУ «ХПІ»"
+      },
+      "description": {
+        "uk": "Науково-технічна бібліотека Національного технічного університету «Харківський політехнічний інститут».",
+        "en": "The scientific and technical library of the National Technical University Kharkiv Polytechnic Institute.",
+        "ru": "Науково-технічна бібліотека Національного технічного університету «Харківський політехнічний інститут»."
+      },
+      "lat": 49.99741,
+      "lon": 36.249025,
+      "category": "library",
+      "station_ids": [
+        16,
+        17
+      ],
+      "photo": ""
+    },
+    {
+      "id": 72,
+      "name": {
+        "uk": "Харківська державна наукова бібліотека імені В. Г. Короленка",
+        "en": "Kharkiv Korolenko State Scientific Library",
+        "ru": "Харківська державна наукова бібліотека імені В. Г. Короленка"
+      },
+      "description": {
+        "uk": "Одна з найвідоміших наукових бібліотек Харкова, заснована у 1830 році.",
+        "en": "One of Kharkiv's best-known scientific libraries, founded in 1830.",
+        "ru": "Одна з найвідоміших наукових бібліотек Харкова, заснована у 1830 році."
+      },
+      "lat": 49.990736,
+      "lon": 36.23465,
+      "category": "library",
+      "station_ids": [
+        4,
+        14
+      ],
+      "photo": "places_photos/72.jpg"
+    },
+    {
+      "id": 73,
+      "name": {
+        "uk": "Харківська державна наукова медична бібліотека",
+        "en": "Kharkiv State Scientific Medical Library",
+        "ru": "Харківська державна наукова медична бібліотека"
+      },
+      "description": {
+        "uk": "Спеціалізована бібліотека з медичною та науковою літературою.",
+        "en": "A specialized library focused on medical and scientific literature.",
+        "ru": "Спеціалізована бібліотека з медичною та науковою літературою."
+      },
+      "lat": 49.994416,
+      "lon": 36.234835,
+      "category": "library",
+      "station_ids": [
+        28,
+        14
+      ],
+      "photo": "places_photos/73.jpg"
+    },
+    {
+      "id": 74,
+      "name": {
+        "uk": "Харківська обласна бібліотека для дітей та юнацтва",
+        "en": "Kharkiv Regional Library for Children and Youth",
+        "ru": "Харківська обласна бібліотека для дітей та юнацтва"
+      },
+      "description": {
+        "uk": "Бібліотека для дітей та молоді з художньою, навчальною і пізнавальною літературою.",
+        "en": "A library for children and young people with fiction, educational and informative literature.",
+        "ru": "Бібліотека для дітей та молоді з художньою, навчальною і пізнавальною літературою."
+      },
+      "lat": 50.0049,
+      "lon": 36.246,
+      "category": "library",
+      "station_ids": [
+        16,
+        17
+      ],
+      "photo": "places_photos/74.jpg"
+    },
+    {
+      "id": 75,
+      "name": {
+        "uk": "Харківська обласна універсальна наукова бібліотека",
+        "en": "Kharkiv Regional Universal Scientific Library",
+        "ru": "Харківська обласна універсальна наукова бібліотека"
+      },
+      "description": {
+        "uk": "Публічна бібліотека з великим фондом книг, періодики та краєзнавчих матеріалів.",
+        "en": "A public library with a large collection of books, periodicals and local history materials.",
+        "ru": "Публічна бібліотека з великим фондом книг, періодики та краєзнавчих матеріалів."
+      },
+      "lat": 49.987619,
+      "lon": 36.234761,
+      "category": "library",
+      "station_ids": [
+        4,
+        14
+      ],
+      "photo": "places_photos/75.jpg"
+    },
+    {
+      "id": 76,
+      "name": {
+        "uk": "Центральна міська бібліотека Харкова",
+        "en": "Central City Library of Kharkiv",
+        "ru": "Центральна міська бібліотека Харкова"
+      },
+      "description": {
+        "uk": "Міська бібліотека з великим вибором художньої, наукової та пізнавальної літератури.",
+        "en": "A city library offering a wide selection of fiction, scientific and educational literature.",
+        "ru": "Міська бібліотека з великим вибором художньої, наукової та пізнавальної літератури."
+      },
+      "lat": 50.008831,
+      "lon": 36.222111,
+      "category": "library",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 77,
+      "name": {
+        "uk": "Центральна наукова бібліотека Харківського національного університету імені В. Н. Каразіна",
+        "en": "Central Scientific Library of V. N. Karazin Kharkiv National University",
+        "ru": "Центральна наукова бібліотека Харківського національного університету імені В. Н. Каразіна"
+      },
+      "description": {
+        "uk": "Університетська наукова бібліотека, заснована у 1804 році та відома великим фондом рідкісних видань.",
+        "en": "A university scientific library founded in 1804 and known for its collection of rare publications.",
+        "ru": "Університетська наукова бібліотека, заснована у 1804 році та відома великим фондом рідкісних видань."
+      },
+      "lat": 50.004277,
+      "lon": 36.227932,
+      "category": "library",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/77.jpg"
+    },
+    {
+      "id": 78,
+      "name": {
+        "uk": "Гімназійна набережна",
+        "en": "Himnaziina Embankment",
+        "ru": "Гімназійна набережна"
+      },
+      "description": {
+        "uk": "Міська набережна біля річки Харків у центральній частині міста.",
+        "en": "A city embankment along the Kharkiv River in the central part of the city.",
+        "ru": "Міська набережна біля річки Харків у центральній частині міста."
+      },
+      "lat": 49.983741,
+      "lon": 36.238547,
+      "category": "embankment",
+      "station_ids": [
+        5,
+        4
+      ],
+      "photo": "places_photos/78.jpg"
+    },
+    {
+      "id": 79,
+      "name": {
+        "uk": "Журавлівська набережна",
+        "en": "Zhuravlivska Embankment",
+        "ru": "Журавлівська набережна"
+      },
+      "description": {
+        "uk": "Набережна в північній частині Харкова біля річки Харків.",
+        "en": "An embankment in the northern part of Kharkiv along the Kharkiv River.",
+        "ru": "Набережна в північній частині Харкова біля річки Харків."
+      },
+      "lat": 50.0231,
+      "lon": 36.2816,
+      "category": "embankment",
+      "station_ids": [
+        17,
+        18
+      ],
+      "photo": "places_photos/79.jpg"
+    },
+    {
+      "id": 80,
+      "name": {
+        "uk": "Лопанська набережна",
+        "en": "Lopanska Embankment",
+        "ru": "Лопанська набережна"
+      },
+      "description": {
+        "uk": "Набережна вздовж річки Лопань у центральній частині Харкова.",
+        "en": "An embankment along the Lopan River in central Kharkiv.",
+        "ru": "Набережна вздовж річки Лопань у центральній частині Харкова."
+      },
+      "lat": 49.990067,
+      "lon": 36.225847,
+      "category": "embankment",
+      "station_ids": [
+        3,
+        4
+      ],
+      "photo": "places_photos/80.jpg"
+    },
+    {
+      "id": 81,
+      "name": {
+        "uk": "Лопанська набережна біля Полтавського Шляху",
+        "en": "Lopanska Embankment near Poltavskyi Shliakh",
+        "ru": "Лопанська набережна біля Полтавського Шляху"
+      },
+      "description": {
+        "uk": "Ділянка Лопанської набережної поблизу Полтавського Шляху.",
+        "en": "A section of Lopanska Embankment near Poltavskyi Shliakh Street.",
+        "ru": "Ділянка Лопанської набережної поблизу Полтавського Шляху."
+      },
+      "lat": 49.99005,
+      "lon": 36.2265,
+      "category": "embankment",
+      "station_ids": [
+        3,
+        4
+      ],
+      "photo": "places_photos/81.jpg"
+    },
+    {
+      "id": 82,
+      "name": {
+        "uk": "Набережна Здоров'я",
+        "en": "Zdorovia Embankment",
+        "ru": "Набережна Здоров'я"
+      },
+      "description": {
+        "uk": "Міська набережна в центральній частині Харкова.",
+        "en": "A city embankment in the central part of Kharkiv.",
+        "ru": "Міська набережна в центральній частині Харкова."
+      },
+      "lat": 49.9823,
+      "lon": 36.2515,
+      "category": "embankment",
+      "station_ids": [
+        5,
+        29
+      ],
+      "photo": "places_photos/82.jpg"
+    },
+    {
+      "id": 83,
+      "name": {
+        "uk": "Нетіченська набережна",
+        "en": "Netichenska Embankment",
+        "ru": "Нетіченська набережна"
+      },
+      "description": {
+        "uk": "Набережна в районі злиття річок Харків і Лопань.",
+        "en": "An embankment near the confluence of the Kharkiv and Lopan rivers.",
+        "ru": "Набережна в районі злиття річок Харків і Лопань."
+      },
+      "lat": 49.983845,
+      "lon": 36.2208,
+      "category": "embankment",
+      "station_ids": [
+        4,
+        3
+      ],
+      "photo": "places_photos/83.jpg"
+    },
+    {
+      "id": 84,
+      "name": {
+        "uk": "Основ'янська набережна",
+        "en": "Osnovianska Embankment",
+        "ru": "Основ'янська набережна"
+      },
+      "description": {
+        "uk": "Набережна в Основ'янському районі Харкова.",
+        "en": "An embankment in the Osnovianskyi District of Kharkiv.",
+        "ru": "Набережна в Основ'янському районі Харкова."
+      },
+      "lat": 49.9747,
+      "lon": 36.2369,
+      "category": "embankment",
+      "station_ids": [
+        5
+      ],
+      "photo": "places_photos/84.jpg"
+    },
+    {
+      "id": 85,
+      "name": {
+        "uk": "Харківська набережна",
+        "en": "Kharkivska Embankment",
+        "ru": "Харківська набережна"
+      },
+      "description": {
+        "uk": "Набережна вздовж річки Харків із міськими видами та історичною забудовою.",
+        "en": "An embankment along the Kharkiv River with city views and historic buildings.",
+        "ru": "Набережна вздовж річки Харків із міськими видами та історичною забудовою."
+      },
+      "lat": 49.990032,
+      "lon": 36.241597,
+      "category": "embankment",
+      "station_ids": [
+        5,
+        4
+      ],
+      "photo": "places_photos/85.jpg"
+    },
+    {
+      "id": 86,
+      "name": {
+        "uk": "Харківська набережна біля Московського мосту",
+        "en": "Kharkivska Embankment near Moskovskyi Bridge",
+        "ru": "Харківська набережна біля Московського мосту"
+      },
+      "description": {
+        "uk": "Ділянка набережної біля мосту через річку Харків.",
+        "en": "A section of the embankment near the bridge over the Kharkiv River.",
+        "ru": "Ділянка набережної біля мосту через річку Харків."
+      },
+      "lat": 49.989083,
+      "lon": 36.241678,
+      "category": "embankment",
+      "station_ids": [
+        5,
+        29
+      ],
+      "photo": "places_photos/86.jpg"
+    },
+    {
+      "id": 87,
+      "name": {
+        "uk": "Харківська набережна біля Фейєрбаха",
+        "en": "Kharkivska Embankment near Feierbakh",
+        "ru": "Харківська набережна біля Фейєрбаха"
+      },
+      "description": {
+        "uk": "Ділянка Харківської набережної біля вулиці Фейєрбаха.",
+        "en": "A section of Kharkivska Embankment near Feierbakh Street.",
+        "ru": "Ділянка Харківської набережної біля вулиці Фейєрбаха."
+      },
+      "lat": 49.990982,
+      "lon": 36.241759,
+      "category": "embankment",
+      "station_ids": [
+        5,
+        4
+      ],
+      "photo": "places_photos/87.jpg"
+    },
+    {
+      "id": 88,
+      "name": {
+        "uk": "Африканська савана",
+        "en": "African Savanna",
+        "ru": "Африканська савана"
+      },
+      "description": {
+        "uk": "Тематична зона зоопарку, присвячена тваринам африканської савани.",
+        "en": "A themed zoo area dedicated to animals of the African savanna.",
+        "ru": "Тематична зона зоопарку, присвячена тваринам африканської савани."
+      },
+      "lat": 50.0022,
+      "lon": 36.2295,
+      "category": "zoo",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/88.jpg"
+    },
+    {
+      "id": 89,
+      "name": {
+        "uk": "Африканське сафарі",
+        "en": "African Safari",
+        "ru": "Африканське сафарі"
+      },
+      "description": {
+        "uk": "Експозиційна зона Харківського зоопарку з тваринами африканського континенту.",
+        "en": "An exhibition area of Kharkiv Zoo featuring animals from Africa.",
+        "ru": "Експозиційна зона Харківського зоопарку з тваринами африканського континенту."
+      },
+      "lat": 50.0018,
+      "lon": 36.229,
+      "category": "zoo",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/89.jpg"
+    },
+    {
+      "id": 90,
+      "name": {
+        "uk": "Дитячий зоопарк",
+        "en": "Children's Zoo",
+        "ru": "Дитячий зоопарк"
+      },
+      "description": {
+        "uk": "Тематична зона Харківського зоопарку з тваринами, орієнтована на дітей.",
+        "en": "A themed area of Kharkiv Zoo featuring animals and designed for children.",
+        "ru": "Тематична зона Харківського зоопарку з тваринами, орієнтована на дітей."
+      },
+      "lat": 50.001,
+      "lon": 36.228,
+      "category": "zoo",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/90.jpg"
+    },
+    {
+      "id": 91,
+      "name": {
+        "uk": "Долина Альпака",
+        "en": "Alpaca Valley",
+        "ru": "Долина Альпака"
+      },
+      "description": {
+        "uk": "Тематична зона Харківського зоопарку, де представлені альпаки та інші тварини.",
+        "en": "A themed area of Kharkiv Zoo featuring alpacas and other animals.",
+        "ru": "Тематична зона Харківського зоопарку, де представлені альпаки та інші тварини."
+      },
+      "lat": 50.0003,
+      "lon": 36.2276,
+      "category": "zoo",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/91.jpg"
+    },
+    {
+      "id": 92,
+      "name": {
+        "uk": "Королівство слонів",
+        "en": "Elephant Kingdom",
+        "ru": "Королівство слонів"
+      },
+      "description": {
+        "uk": "Тематична експозиційна зона Харківського зоопарку зі слонами.",
+        "en": "A themed exhibition area of Kharkiv Zoo featuring elephants.",
+        "ru": "Тематична експозиційна зона Харківського зоопарку зі слонами."
+      },
+      "lat": 50.0025,
+      "lon": 36.2278,
+      "category": "zoo",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/92.jpg"
+    },
+    {
+      "id": 93,
+      "name": {
+        "uk": "Планета мавп",
+        "en": "Planet of Apes",
+        "ru": "Планета мавп"
+      },
+      "description": {
+        "uk": "Експозиційна зона Харківського зоопарку з приматами.",
+        "en": "An exhibition area of Kharkiv Zoo featuring primates.",
+        "ru": "Експозиційна зона Харківського зоопарку з приматами."
+      },
+      "lat": 50.002,
+      "lon": 36.227,
+      "category": "zoo",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 94,
+      "name": {
+        "uk": "Південна Америка",
+        "en": "South America",
+        "ru": "Південна Америка"
+      },
+      "description": {
+        "uk": "Експозиційна зона Харківського зоопарку з представниками фауни Південної Америки.",
+        "en": "An exhibition area of Kharkiv Zoo featuring South American wildlife.",
+        "ru": "Експозиційна зона Харківського зоопарку з представниками фауни Південної Америки."
+      },
+      "lat": 50.0012,
+      "lon": 36.2298,
+      "category": "zoo",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 95,
+      "name": {
+        "uk": "Світ узбережжя",
+        "en": "World of the Coast",
+        "ru": "Світ узбережжя"
+      },
+      "description": {
+        "uk": "Тематична експозиційна зона Харківського зоопарку, присвячена мешканцям узбережжя.",
+        "en": "A themed exhibition area of Kharkiv Zoo dedicated to coastal wildlife.",
+        "ru": "Тематична експозиційна зона Харківського зоопарку, присвячена мешканцям узбережжя."
+      },
+      "lat": 50.0005,
+      "lon": 36.2292,
+      "category": "zoo",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 96,
+      "name": {
+        "uk": "Стежка тигра",
+        "en": "Tiger Trail",
+        "ru": "Стежка тигра"
+      },
+      "description": {
+        "uk": "Експозиційна зона Харківського зоопарку, присвячена тиграм.",
+        "en": "An exhibition area of Kharkiv Zoo dedicated to tigers.",
+        "ru": "Експозиційна зона Харківського зоопарку, присвячена тиграм."
+      },
+      "lat": 50.0015,
+      "lon": 36.2275,
+      "category": "zoo",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": ""
+    },
+    {
+      "id": 97,
+      "name": {
+        "uk": "Харківський зоопарк",
+        "en": "Kharkiv Zoo",
+        "ru": "Харківський зоопарк"
+      },
+      "description": {
+        "uk": "Один із найстаріших зоопарків України, розташований у центральній частині Харкова.",
+        "en": "One of the oldest zoos in Ukraine, located in the central part of Kharkiv.",
+        "ru": "Один із найстаріших зоопарків України, розташований у центральній частині Харкова."
+      },
+      "lat": 50.000843,
+      "lon": 36.228211,
+      "category": "zoo",
+      "station_ids": [
+        15,
+        27,
+        28
+      ],
+      "photo": "places_photos/97.jpg"
+    },
+    {
+      "id": 98,
+      "name": {
+        "uk": "ТОЦ AVE PLAZA",
+        "en": "AVE PLAZA Shopping Center",
+        "ru": "ТОЦ AVE PLAZA"
+      },
+      "description": {
+        "uk": "Сучасний торгово-офісний комплекс у центрі Харкова на вулиці Сумській.",
+        "en": "A modern shopping and office complex in central Kharkiv on Sumska Street.",
+        "ru": "Сучасний торгово-офісний комплекс у центрі Харкова на вулиці Сумській."
+      },
+      "lat": 49.994604,
+      "lon": 36.233062,
+      "category": "shopping_center",
+      "station_ids": [
+        27,
+        28
+      ],
+      "photo": ""
+    },
+    {
+      "id": 99,
+      "name": {
+        "uk": "ТРК Україна",
+        "en": "Ukraine Shopping and Entertainment Center",
+        "ru": "ТРК Україна"
+      },
+      "description": {
+        "uk": "Торговельно-розважальний комплекс на проспекті Тракторобудівників.",
+        "en": "A shopping and entertainment center on Traktorobudivnykiv Avenue.",
+        "ru": "Торговельно-розважальний комплекс на проспекті Тракторобудівників."
+      },
+      "lat": 50.00075,
+      "lon": 36.3528,
+      "category": "shopping_center",
+      "station_ids": [
+        11,
+        12
+      ],
+      "photo": ""
+    },
+    {
+      "id": 100,
+      "name": {
+        "uk": "ТРЦ Дафі",
+        "en": "Dafi Shopping Mall",
+        "ru": "ТРЦ Дафі"
+      },
+      "description": {
+        "uk": "Великий торговельно-розважальний центр на вулиці Нескорених.",
+        "en": "A large shopping and entertainment center on Neskorenykh Street.",
+        "ru": "Великий торговельно-розважальний центр на вулиці Нескорених."
+      },
+      "lat": 50.026794,
+      "lon": 36.330861,
+      "category": "shopping_center",
+      "station_ids": [
+        21,
+        20
+      ],
+      "photo": ""
+    },
+    {
+      "id": 101,
+      "name": {
+        "uk": "ТРЦ Екватор",
+        "en": "Equator Shopping Mall",
+        "ru": "ТРЦ Екватор"
+      },
+      "description": {
+        "uk": "Торговий центр на проспекті Героїв Харкова з магазинами, послугами та розвагами.",
+        "en": "A shopping center on Heroiv Kharkova Avenue with shops, services and entertainment.",
+        "ru": "Торговий центр на проспекті Героїв Харкова з магазинами, послугами та розвагами."
+      },
+      "lat": 50.03216,
+      "lon": 36.35652,
+      "category": "shopping_center",
+      "station_ids": [
+        18,
+        17
+      ],
+      "photo": ""
+    },
+    {
+      "id": 102,
+      "name": {
+        "uk": "ТРЦ Караван",
+        "en": "Karavan Shopping Mall",
+        "ru": "ТРЦ Караван"
+      },
+      "description": {
+        "uk": "Великий торговельно-розважальний центр на вулиці Героїв Праці.",
+        "en": "A large shopping and entertainment center on Heroiv Pratsi Street.",
+        "ru": "Великий торговельно-розважальний центр на вулиці Героїв Праці."
+      },
+      "lat": 50.029247,
+      "lon": 36.326631,
+      "category": "shopping_center",
+      "station_ids": [
+        21,
+        20
+      ],
+      "photo": ""
+    },
+    {
+      "id": 103,
+      "name": {
+        "uk": "ТРЦ Космос",
+        "en": "Kosmos Shopping Mall",
+        "ru": "ТРЦ Космос"
+      },
+      "description": {
+        "uk": "Торговельно-розважальний центр на вулиці Академіка Павлова.",
+        "en": "A shopping and entertainment center on Akademika Pavlova Street.",
+        "ru": "Торговельно-розважальний центр на вулиці Академіка Павлова."
+      },
+      "lat": 50.023021,
+      "lon": 36.335741,
+      "category": "shopping_center",
+      "station_ids": [
+        19,
+        18
+      ],
+      "photo": ""
+    },
+    {
+      "id": 104,
+      "name": {
+        "uk": "ТРЦ Нікольський",
+        "en": "Nikolsky Shopping Mall",
+        "ru": "ТРЦ Нікольський"
+      },
+      "description": {
+        "uk": "Великий торговельно-розважальний центр у центрі Харкова на вулиці Григорія Сковороди.",
+        "en": "A large shopping and entertainment center in central Kharkiv on Hryhoriia Skovorody Street.",
+        "ru": "Великий торговельно-розважальний центр у центрі Харкова на вулиці Григорія Сковороди."
+      },
+      "lat": 49.991388,
+      "lon": 36.234035,
+      "category": "shopping_center",
+      "station_ids": [
+        16,
+        28
+      ],
+      "photo": ""
+    },
+    {
+      "id": 105,
+      "name": {
+        "uk": "ТРЦ Французький бульвар",
+        "en": "French Boulevard Shopping Mall",
+        "ru": "ТРЦ Французький бульвар"
+      },
+      "description": {
+        "uk": "Торговельно-розважальний центр на вулиці Академіка Павлова.",
+        "en": "A shopping and entertainment center on Akademika Pavlova Street.",
+        "ru": "Торговельно-розважальний центр на вулиці Академіка Павлова."
+      },
+      "lat": 49.990229,
+      "lon": 36.289943,
+      "category": "shopping_center",
+      "station_ids": [
+        17,
+        18
+      ],
+      "photo": ""
+    },
+    {
+      "id": 106,
+      "name": {
+        "uk": "ТЦ Підземне місто",
+        "en": "Underground City Shopping Center",
+        "ru": "ТЦ Підземне місто"
+      },
+      "description": {
+        "uk": "Торговий центр на вулиці Полтавський Шлях у центральній частині Харкова.",
+        "en": "A shopping center on Poltavskyi Shliakh Street in central Kharkiv.",
+        "ru": "Торговий центр на вулиці Полтавський Шлях у центральній частині Харкова."
+      },
+      "lat": 49.98706,
+      "lon": 36.208231,
+      "category": "shopping_center",
+      "station_ids": [
+        3,
+        4
+      ],
+      "photo": ""
+    },
+    {
+      "id": 107,
+      "name": {
+        "uk": "Торговий центр «На Гагаріна»",
+        "en": "Na Haharina Shopping Center",
+        "ru": "Торговий центр «На Гагаріна»"
+      },
+      "description": {
+        "uk": "Торговий центр на Аерокосмічному проспекті в Харкові.",
+        "en": "A shopping center on Aerokosmichnyi Avenue in Kharkiv.",
+        "ru": "Торговий центр на Аерокосмічному проспекті в Харкові."
+      },
+      "lat": 49.97665,
+      "lon": 36.2644,
+      "category": "shopping_center",
+      "station_ids": [
+        5,
+        6
+      ],
+      "photo": ""
+    },
+    {
+      "id": 108,
+      "name": {
+        "uk": "ART-HALL",
+        "en": "ART-HALL Cinema",
+        "ru": "ART-HALL"
+      },
+      "description": {
+        "uk": "Невеликий кінозал для артхаусного, документального, експериментального та фестивального кіно.",
+        "en": "A small cinema specializing in arthouse, documentary, experimental and festival films.",
+        "ru": "Невеликий кінозал для артхаусного, документального, експериментального та фестивального кіно."
+      },
+      "lat": 49.9993,
+      "lon": 36.2359,
+      "category": "cinema",
+      "station_ids": [
+        15,
+        28
+      ],
+      "photo": ""
+    },
+    {
+      "id": 109,
+      "name": {
+        "uk": "FILMAX",
+        "en": "FILMAX Cinema",
+        "ru": "FILMAX"
+      },
+      "description": {
+        "uk": "Сучасний кінотеатр у торговому центрі «Клас» біля станції метро «Холодна гора».",
+        "en": "A modern cinema in the KLAS shopping center near Kholodna Hora metro station.",
+        "ru": "Сучасний кінотеатр у торговому центрі «Клас» біля станції метро «Холодна гора»."
+      },
+      "lat": 49.9889,
+      "lon": 36.1917,
+      "category": "cinema",
+      "station_ids": [
+        1,
+        2
+      ],
+      "photo": ""
+    },
+    {
+      "id": 110,
+      "name": {
+        "uk": "Fabrika.space",
+        "en": "Fabrika.space",
+        "ru": "Fabrika.space"
+      },
+      "description": {
+        "uk": "Культурний простір на Благовіщенській вулиці, де проводилися кінопокази та культурні заходи.",
+        "en": "A cultural space on Blahovishchenska Street that has hosted film screenings and cultural events.",
+        "ru": "Культурний простір на Благовіщенській вулиці, де проводилися кінопокази та культурні заходи."
+      },
+      "lat": 49.9887,
+      "lon": 36.2118,
+      "category": "cinema",
+      "station_ids": [
+        3,
+        30
+      ],
+      "photo": ""
+    },
+    {
+      "id": 111,
+      "name": {
+        "uk": "Palladium Cinema",
+        "en": "Palladium Cinema",
+        "ru": "Palladium Cinema"
+      },
+      "description": {
+        "uk": "Камерний багатозальний кінотеатр у центрі Харкова з кількома залами.",
+        "en": "A chamber-style multiplex cinema in central Kharkiv with several screening rooms.",
+        "ru": "Камерний багатозальний кінотеатр у центрі Харкова з кількома залами."
+      },
+      "lat": 49.98833,
+      "lon": 36.23331,
+      "category": "cinema",
+      "station_ids": [
+        4,
+        28
+      ],
+      "photo": ""
+    },
+    {
+      "id": 112,
+      "name": {
+        "uk": "Кіноленд",
+        "en": "KinoLand",
+        "ru": "Кіноленд"
+      },
+      "description": {
+        "uk": "Кінотеатр на проспекті Ювілейному в Харкові.",
+        "en": "A cinema located on Yuvileinyi Avenue in Kharkiv.",
+        "ru": "Кінотеатр на проспекті Ювілейному в Харкові."
+      },
+      "lat": 49.996624,
+      "lon": 36.335945,
+      "category": "cinema",
+      "station_ids": [
+        18,
+        19
+      ],
+      "photo": ""
+    },
+    {
+      "id": 113,
+      "name": {
+        "uk": "Кінотеатр 8 ½",
+        "en": "8 ½ Cinema",
+        "ru": "Кінотеатр 8 ½"
+      },
+      "description": {
+        "uk": "Кінотеатр у центральній частині Харкова неподалік станції метро «Історичний музей».",
+        "en": "A cinema in central Kharkiv near the Istorychnyi Muzei metro station.",
+        "ru": "Кінотеатр у центральній частині Харкова неподалік станції метро «Історичний музей»."
+      },
+      "lat": 49.994202,
+      "lon": 36.23379,
+      "category": "cinema",
+      "station_ids": [
+        14,
+        4
+      ],
+      "photo": ""
+    },
+    {
+      "id": 114,
+      "name": {
+        "uk": "Кінотеатр імені О. Довженка",
+        "en": "O. Dovzhenko Cinema",
+        "ru": "Кінотеатр імені О. Довженка"
+      },
+      "description": {
+        "uk": "Кінотеатр на вулиці 23-го Серпня в Шевченківському районі Харкова.",
+        "en": "A cinema on 23-ho Serpnia Street in the Shevchenkivskyi District of Kharkiv.",
+        "ru": "Кінотеатр на вулиці 23-го Серпня в Шевченківському районі Харкова."
+      },
+      "lat": 50.03446,
+      "lon": 36.22921,
+      "category": "cinema",
+      "station_ids": [
+        24,
+        25
+      ],
+      "photo": ""
+    },
+    {
+      "id": 115,
+      "name": {
+        "uk": "Мультиплекс Дафі",
+        "en": "Multiplex Dafi",
+        "ru": "Мультиплекс Дафі"
+      },
+      "description": {
+        "uk": "Багатозальний кінотеатр у ТРЦ Дафі з показами сучасних фільмів.",
+        "en": "A multiplex cinema in Dafi shopping mall showing current movies.",
+        "ru": "Багатозальний кінотеатр у ТРЦ Дафі з показами сучасних фільмів."
+      },
+      "lat": 50.02679,
+      "lon": 36.33086,
+      "category": "cinema",
+      "station_ids": [
+        19,
+        20
+      ],
+      "photo": ""
+    },
+    {
+      "id": 116,
+      "name": {
+        "uk": "Мультиплекс Нікольський",
+        "en": "Multiplex Nikolsky",
+        "ru": "Мультиплекс Нікольський"
+      },
+      "description": {
+        "uk": "Сучасний багатозальний кінотеатр у ТРЦ Нікольський у центрі Харкова.",
+        "en": "A modern multiplex cinema located in Nikolsky shopping mall in central Kharkiv.",
+        "ru": "Сучасний багатозальний кінотеатр у ТРЦ Нікольський у центрі Харкова."
+      },
+      "lat": 49.99159,
+      "lon": 36.23518,
+      "category": "cinema",
+      "station_ids": [
+        4,
+        16
+      ],
+      "photo": ""
+    },
+    {
+      "id": 117,
+      "name": {
+        "uk": "Планета Кіно Французький бульвар",
+        "en": "Planeta Kino French Boulevard",
+        "ru": "Планета Кіно Французький бульвар"
+      },
+      "description": {
+        "uk": "Сучасний кінотеатр у ТРЦ «Французький Бульвар» з форматами IMAX та 4DX.",
+        "en": "A modern cinema in French Boulevard mall featuring IMAX and 4DX formats.",
+        "ru": "Сучасний кінотеатр у ТРЦ «Французький Бульвар» з форматами IMAX та 4DX."
+      },
+      "lat": 49.99023,
+      "lon": 36.28994,
+      "category": "cinema",
+      "station_ids": [
+        17,
+        18
+      ],
+      "photo": ""
+    },
+    {
+      "id": 118,
+      "name": {
+        "uk": "Стадіон «Динамо»",
+        "en": "Dynamo Stadium",
+        "ru": "Стадіон «Динамо»"
+      },
+      "description": {
+        "uk": "Історичний футбольний стадіон у центральній частині Харкова, відкритий у 1931 році.",
+        "en": "A historic football stadium in central Kharkiv, opened in 1931.",
+        "ru": "Історичний футбольний стадіон у центральній частині Харкова, відкритий у 1931 році."
+      },
+      "lat": 50.021889,
+      "lon": 36.239917,
+      "category": "stadium",
+      "station_ids": [
+        17,
+        16
+      ],
+      "photo": ""
+    },
+    {
+      "id": 119,
+      "name": {
+        "uk": "Стадіон «Зірка»",
+        "en": "Zirka Stadium",
+        "ru": "Стадіон «Зірка»"
+      },
+      "description": {
+        "uk": "Міський спортивний стадіон у Харкові з футбольним полем.",
+        "en": "A city sports stadium in Kharkiv with a football field.",
+        "ru": "Міський спортивний стадіон у Харкові з футбольним полем."
+      },
+      "lat": 49.9539,
+      "lon": 36.2467,
+      "category": "stadium",
+      "station_ids": [
+        5,
+        6
+      ],
+      "photo": "places_photos/119.jpg"
+    },
+    {
+      "id": 120,
+      "name": {
+        "uk": "Стадіон «Локомотив»",
+        "en": "Lokomotyv Stadium",
+        "ru": "Стадіон «Локомотив»"
+      },
+      "description": {
+        "uk": "Спортивний об'єкт залізничників на Великій Панасівській вулиці.",
+        "en": "A railway workers' sports facility on Velyka Panasivska Street.",
+        "ru": "Спортивний об'єкт залізничників на Великій Панасівській вулиці."
+      },
+      "lat": 49.9981,
+      "lon": 36.2067,
+      "category": "stadium",
+      "station_ids": [
+        2,
+        3
+      ],
+      "photo": "places_photos/120.jpg"
+    },
+    {
+      "id": 121,
+      "name": {
+        "uk": "Стадіон «Металіст»",
+        "en": "Metalist Stadium",
+        "ru": "Стадіон «Металіст»"
+      },
+      "description": {
+        "uk": "Головний стадіон Харкова та велика багатофункціональна спортивна арена.",
+        "en": "Kharkiv's main stadium and a large multifunctional sports arena.",
+        "ru": "Головний стадіон Харкова та велика багатофункціональна спортивна арена."
+      },
+      "lat": 49.9809,
+      "lon": 36.2606,
+      "category": "stadium",
+      "station_ids": [
+        6,
+        30
+      ],
+      "photo": "places_photos/121.jpg"
+    },
+    {
+      "id": 122,
+      "name": {
+        "uk": "Стадіон «Нова Баварія»",
+        "en": "Nova Bavaria Stadium",
+        "ru": "Стадіон «Нова Баварія»"
+      },
+      "description": {
+        "uk": "Футбольний стадіон у Новобаварському районі Харкова.",
+        "en": "A football stadium in the Novobavarskyi District of Kharkiv.",
+        "ru": "Футбольний стадіон у Новобаварському районі Харкова."
+      },
+      "lat": 49.9659,
+      "lon": 36.1458,
+      "category": "stadium",
+      "station_ids": [
+        1
+      ],
+      "photo": "places_photos/122.jpg"
+    },
+    {
+      "id": 123,
+      "name": {
+        "uk": "Стадіон «Піонер»",
+        "en": "Pioneer Stadium",
+        "ru": "Стадіон «Піонер»"
+      },
+      "description": {
+        "uk": "Стадіон у центральній частині Харкова поблизу вулиці Трінклера.",
+        "en": "A stadium in central Kharkiv near Trincklera Street.",
+        "ru": "Стадіон у центральній частині Харкова поблизу вулиці Трінклера."
+      },
+      "lat": 50.0089,
+      "lon": 36.2368,
+      "category": "stadium",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/123.jpg"
+    },
+    {
+      "id": 124,
+      "name": {
+        "uk": "Стадіон «Серп і Молот»",
+        "en": "Sickle and Hammer Stadium",
+        "ru": "Стадіон «Серп і Молот»"
+      },
+      "description": {
+        "uk": "Спортивний стадіон на проспекті Героїв Харкова.",
+        "en": "A sports stadium on Heroiv Kharkova Avenue.",
+        "ru": "Спортивний стадіон на проспекті Героїв Харкова."
+      },
+      "lat": 49.9889,
+      "lon": 36.3114,
+      "category": "stadium",
+      "station_ids": [
+        17,
+        18
+      ],
+      "photo": "places_photos/124.jpg"
+    },
+    {
+      "id": 125,
+      "name": {
+        "uk": "Стадіон «Сонячний»",
+        "en": "Sonyachnyi Stadium",
+        "ru": "Стадіон «Сонячний»"
+      },
+      "description": {
+        "uk": "Спортивний стадіон у Харкові, який використовувався для футбольних тренувань та матчів.",
+        "en": "A sports stadium in Kharkiv used for football training and matches.",
+        "ru": "Спортивний стадіон у Харкові, який використовувався для футбольних тренувань та матчів."
+      },
+      "lat": 49.9865,
+      "lon": 36.2935,
+      "category": "stadium",
+      "station_ids": [
+        29,
+        17
+      ],
+      "photo": "places_photos/125.jpg"
+    },
+    {
+      "id": 126,
+      "name": {
+        "uk": "Стадіон «Трудові резерви»",
+        "en": "Trudovi Rezervy Stadium",
+        "ru": "Стадіон «Трудові резерви»"
+      },
+      "description": {
+        "uk": "Міський стадіон на вулиці Волонтерській у Харкові.",
+        "en": "A city stadium on Volonterska Street in Kharkiv.",
+        "ru": "Міський стадіон на вулиці Волонтерській у Харкові."
+      },
+      "lat": 50.0063,
+      "lon": 36.1799,
+      "category": "stadium",
+      "station_ids": [
+        1,
+        2
+      ],
+      "photo": "places_photos/126.jpg"
+    },
+    {
+      "id": 127,
+      "name": {
+        "uk": "Стадіон «ХТЗ»",
+        "en": "KhTZ Stadium",
+        "ru": "Стадіон «ХТЗ»"
+      },
+      "description": {
+        "uk": "Спортивний комплекс і стадіон у східній частині Харкова.",
+        "en": "A sports complex and stadium in eastern Kharkiv.",
+        "ru": "Спортивний комплекс і стадіон у східній частині Харкова."
+      },
+      "lat": 49.957246,
+      "lon": 36.352108,
+      "category": "stadium",
+      "station_ids": [
+        12,
+        13
+      ],
+      "photo": "places_photos/127.jpg"
+    },
+    {
+      "id": 128,
+      "name": {
+        "uk": "Бурсацький міст",
+        "en": "Bursatskyi Bridge",
+        "ru": "Бурсацький міст"
+      },
+      "description": {
+        "uk": "Історичний міст через Лопань біля Бурсацького узвозу.",
+        "en": "A historic bridge over the Lopan River near Bursatskyi Descent.",
+        "ru": "Історичний міст через Лопань біля Бурсацького узвозу."
+      },
+      "lat": 49.99225,
+      "lon": 36.22685,
+      "category": "bridge",
+      "station_ids": [
+        3,
+        4
+      ],
+      "photo": "places_photos/128.jpg"
+    },
+    {
+      "id": 129,
+      "name": {
+        "uk": "Гончарівський міст",
+        "en": "Honcharivskyi Bridge",
+        "ru": "Гончарівський міст"
+      },
+      "description": {
+        "uk": "Автомобільний міст через Лопань, що сполучає район вулиці Конева з набережною.",
+        "en": "A road bridge over the Lopan River connecting the Koneva Street area with the embankment.",
+        "ru": "Автомобільний міст через Лопань, що сполучає район вулиці Конева з набережною."
+      },
+      "lat": 49.9789,
+      "lon": 36.2188,
+      "category": "bridge",
+      "station_ids": [
+        30,
+        3
+      ],
+      "photo": "places_photos/129.jpg"
+    },
+    {
+      "id": 130,
+      "name": {
+        "uk": "Купецький міст",
+        "en": "Kupecheskyi Bridge",
+        "ru": "Купецький міст"
+      },
+      "description": {
+        "uk": "Історичний автомобільний міст через Лопань у центральній частині Харкова.",
+        "en": "A historic road bridge over the Lopan River in central Kharkiv.",
+        "ru": "Історичний автомобільний міст через Лопань у центральній частині Харкова."
+      },
+      "lat": 49.98992,
+      "lon": 36.22565,
+      "category": "bridge",
+      "station_ids": [
+        3,
+        4
+      ],
+      "photo": "places_photos/130.jpg"
+    },
+    {
+      "id": 131,
+      "name": {
+        "uk": "Лопанський міст",
+        "en": "Lopanskyi Bridge",
+        "ru": "Лопанський міст"
+      },
+      "description": {
+        "uk": "Історичний автомобільно-трамвайний міст через річку Лопань на Полтавському Шляху.",
+        "en": "A historic road and tram bridge over the Lopan River on Poltavskyi Shliakh Street.",
+        "ru": "Історичний автомобільно-трамвайний міст через річку Лопань на Полтавському Шляху."
+      },
+      "lat": 49.98921,
+      "lon": 36.21978,
+      "category": "bridge",
+      "station_ids": [
+        3,
+        4
+      ],
+      "photo": "places_photos/131.jpg"
+    },
+    {
+      "id": 132,
+      "name": {
+        "uk": "Міст закоханих «Стрілка»",
+        "en": "Lovers' Bridge at Strilka",
+        "ru": "Міст закоханих «Стрілка»"
+      },
+      "description": {
+        "uk": "Пішохідний підвісний міст біля злиття річок Харків і Лопань у сквері «Стрілка».",
+        "en": "A pedestrian suspension bridge at the confluence of the Kharkiv and Lopan rivers in Strilka Square.",
+        "ru": "Пішохідний підвісний міст біля злиття річок Харків і Лопань у сквері «Стрілка»."
+      },
+      "lat": 49.9862,
+      "lon": 36.224,
+      "category": "bridge",
+      "station_ids": [
+        3,
+        4
+      ],
+      "photo": "places_photos/132.jpg"
+    },
+    {
+      "id": 133,
+      "name": {
+        "uk": "Нетіченський міст",
+        "en": "Netichenskyi Bridge",
+        "ru": "Нетіченський міст"
+      },
+      "description": {
+        "uk": "Автомобільний міст через річку Харків біля Університетської вулиці.",
+        "en": "A road bridge over the Kharkiv River near Universytetska Street.",
+        "ru": "Автомобільний міст через річку Харків біля Університетської вулиці."
+      },
+      "lat": 49.9816,
+      "lon": 36.2371,
+      "category": "bridge",
+      "station_ids": [
+        4,
+        5
+      ],
+      "photo": "places_photos/133.jpg"
+    },
+    {
+      "id": 134,
+      "name": {
+        "uk": "Подільський міст",
+        "en": "Podilskyi Bridge",
+        "ru": "Подільський міст"
+      },
+      "description": {
+        "uk": "Автомобільний міст через річку Харків у районі Подолу.",
+        "en": "A road bridge over the Kharkiv River in the Podil area.",
+        "ru": "Автомобільний міст через річку Харків у районі Подолу."
+      },
+      "lat": 49.9785,
+      "lon": 36.2487,
+      "category": "bridge",
+      "station_ids": [
+        5,
+        6
+      ],
+      "photo": "places_photos/134.jpg"
+    },
+    {
+      "id": 135,
+      "name": {
+        "uk": "Рогатинський міст",
+        "en": "Rohatynskyi Bridge",
+        "ru": "Рогатинський міст"
+      },
+      "description": {
+        "uk": "Автомобільно-трамвайний міст через річку Лопань у районі Рогатинського проїзду.",
+        "en": "A road and tram bridge over the Lopan River near Rohatynskyi Passage.",
+        "ru": "Автомобільно-трамвайний міст через річку Лопань у районі Рогатинського проїзду."
+      },
+      "lat": 49.99715,
+      "lon": 36.2136,
+      "category": "bridge",
+      "station_ids": [
+        2,
+        3
+      ],
+      "photo": "places_photos/135.jpg"
+    },
+    {
+      "id": 136,
+      "name": {
+        "uk": "Харківський метроміст",
+        "en": "Kharkiv Metro Bridge",
+        "ru": "Харківський метроміст"
+      },
+      "description": {
+        "uk": "Критий метроміст, пов'язаний із ділянкою Салтівської лінії Харківського метро.",
+        "en": "A covered metro bridge associated with the Saltivska line of the Kharkiv Metro.",
+        "ru": "Критий метроміст, пов'язаний із ділянкою Салтівської лінії Харківського метро."
+      },
+      "lat": 50.0097,
+      "lon": 36.3059,
+      "category": "bridge",
+      "station_ids": [
+        17,
+        18
+      ],
+      "photo": "places_photos/136.jpg"
+    },
+    {
+      "id": 137,
+      "name": {
+        "uk": "Харківський міст",
+        "en": "Kharkivskyi Bridge",
+        "ru": "Харківський міст"
+      },
+      "description": {
+        "uk": "Великий автомобільний міст через річку Харків на проспекті Героїв Харкова.",
+        "en": "A major road bridge over the Kharkiv River on Heroiv Kharkova Avenue.",
+        "ru": "Великий автомобільний міст через річку Харків на проспекті Героїв Харкова."
+      },
+      "lat": 49.9878,
+      "lon": 36.2707,
+      "category": "bridge",
+      "station_ids": [
+        29,
+        6
+      ],
+      "photo": ""
+    },
+    {
+      "id": 138,
+      "name": {
+        "uk": "Бічний Притеатральний фонтан",
+        "en": "Side Theater Fountain",
+        "ru": "Бічний Притеатральний фонтан"
+      },
+      "description": {
+        "uk": "Один із фонтанів комплексу перед Харківським оперним театром.",
+        "en": "One of the fountains in the complex in front of the Kharkiv Opera Theatre.",
+        "ru": "Один із фонтанів комплексу перед Харківським оперним театром."
+      },
+      "lat": 49.999348,
+      "lon": 36.23262,
+      "category": "fountain",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/138.jpg"
+    },
+    {
+      "id": 139,
+      "name": {
+        "uk": "Дзеркальний струмінь",
+        "en": "Mirror Stream",
+        "ru": "Дзеркальний струмінь"
+      },
+      "description": {
+        "uk": "Відомий фонтан-ротонда та один із символів Харкова.",
+        "en": "A famous fountain-rotunda and one of Kharkiv's symbols.",
+        "ru": "Відомий фонтан-ротонда та один із символів Харкова."
+      },
+      "lat": 49.998686,
+      "lon": 36.234501,
+      "category": "fountain",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": "places_photos/139.jpg"
+    },
+    {
+      "id": 140,
+      "name": {
+        "uk": "Музичний фонтан з мавпочками",
+        "en": "Musical Fountain with Monkeys",
+        "ru": "Музичний фонтан з мавпочками"
+      },
+      "description": {
+        "uk": "Музичний фонтан зі скульптурами мавпочок із музичними інструментами.",
+        "en": "A musical fountain featuring monkey sculptures with musical instruments.",
+        "ru": "Музичний фонтан зі скульптурами мавпочок із музичними інструментами."
+      },
+      "lat": 50.0022,
+      "lon": 36.2299,
+      "category": "fountain",
+      "station_ids": [
+        27,
+        15
+      ],
+      "photo": ""
+    },
+    {
+      "id": 141,
+      "name": {
+        "uk": "Фонтан Каскад",
+        "en": "Cascade Fountain",
+        "ru": "Фонтан Каскад"
+      },
+      "description": {
+        "uk": "Великий каскадний фонтан у саду імені Тараса Шевченка.",
+        "en": "A large cascade fountain in Taras Shevchenko Garden.",
+        "ru": "Великий каскадний фонтан у саду імені Тараса Шевченка."
+      },
+      "lat": 49.999833,
+      "lon": 36.227778,
+      "category": "fountain",
+      "station_ids": [
+        27,
+        15
+      ],
+      "photo": "places_photos/141.jpg"
+    },
+    {
+      "id": 142,
+      "name": {
+        "uk": "Фонтан на Привокзальній площі",
+        "en": "Fountain at Privokzalna Square",
+        "ru": "Фонтан на Привокзальній площі"
+      },
+      "description": {
+        "uk": "Великий фонтан на площі перед залізничним вокзалом Харків-Пасажирський.",
+        "en": "A large fountain on the square in front of Kharkiv Passenger Railway Station.",
+        "ru": "Великий фонтан на площі перед залізничним вокзалом Харків-Пасажирський."
+      },
+      "lat": 49.989705,
+      "lon": 36.205696,
+      "category": "fountain",
+      "station_ids": [
+        2,
+        1
+      ],
+      "photo": "places_photos/142.jpg"
+    },
+    {
+      "id": 143,
+      "name": {
+        "uk": "Фонтан на майдані Героїв Небесної Сотні",
+        "en": "Fountain at Heavenly Hundred Heroes Square",
+        "ru": "Фонтан на майдані Героїв Небесної Сотні"
+      },
+      "description": {
+        "uk": "Історичний фонтан у центрі майдану Героїв Небесної Сотні.",
+        "en": "A historic fountain in the center of Heavenly Hundred Heroes Square.",
+        "ru": "Історичний фонтан у центрі майдану Героїв Небесної Сотні."
+      },
+      "lat": 49.986389,
+      "lon": 36.245833,
+      "category": "fountain",
+      "station_ids": [
+        4,
+        6
+      ],
+      "photo": "places_photos/143.jpg"
+    },
+    {
+      "id": 144,
+      "name": {
+        "uk": "Фонтан світломузики в саду Шевченка",
+        "en": "Light and Music Fountain in Shevchenko Garden",
+        "ru": "Фонтан світломузики в саду Шевченка"
+      },
+      "description": {
+        "uk": "Фонтан із музичним і світловим оформленням у саду Шевченка.",
+        "en": "A fountain with music and lighting effects in Shevchenko Garden.",
+        "ru": "Фонтан із музичним і світловим оформленням у саду Шевченка."
+      },
+      "lat": 50.001843,
+      "lon": 36.231505,
+      "category": "fountain",
+      "station_ids": [
+        27,
+        15
+      ],
+      "photo": "places_photos/144.jpg"
+    },
+    {
+      "id": 145,
+      "name": {
+        "uk": "Фонтан у Покровському сквері",
+        "en": "Fountain in Pokrovsky Square",
+        "ru": "Фонтан у Покровському сквері"
+      },
+      "description": {
+        "uk": "Фонтан у затишному Покровському сквері біля Покровського монастиря.",
+        "en": "A fountain in the quiet Pokrovsky Square near Pokrovsky Monastery.",
+        "ru": "Фонтан у затишному Покровському сквері біля Покровського монастиря."
+      },
+      "lat": 49.990833,
+      "lon": 36.229444,
+      "category": "fountain",
+      "station_ids": [
+        14,
+        4
+      ],
+      "photo": "places_photos/145.jpg"
+    },
+    {
+      "id": 146,
+      "name": {
+        "uk": "Фонтан у сквері на площі Свободи",
+        "en": "Fountain in Freedom Square",
+        "ru": "Фонтан у сквері на площі Свободи"
+      },
+      "description": {
+        "uk": "Сучасний фонтан у сквері на площі Свободи.",
+        "en": "A modern fountain in the park area of Freedom Square.",
+        "ru": "Сучасний фонтан у сквері на площі Свободи."
+      },
+      "lat": 50.005171,
+      "lon": 36.230885,
+      "category": "fountain",
+      "station_ids": [
+        27,
+        15
+      ],
+      "photo": "places_photos/146.jpg"
+    },
+    {
+      "id": 147,
+      "name": {
+        "uk": "Центральний Притеатральний фонтан",
+        "en": "Central Theater Fountain",
+        "ru": "Центральний Притеатральний фонтан"
+      },
+      "description": {
+        "uk": "Фонтан перед Харківським оперним театром на площі фонтанів.",
+        "en": "A fountain in front of the Kharkiv Opera Theatre on Fountain Square.",
+        "ru": "Фонтан перед Харківським оперним театром на площі фонтанів."
+      },
+      "lat": 49.999128,
+      "lon": 36.232235,
+      "category": "fountain",
+      "station_ids": [
+        15,
+        27
+      ],
+      "photo": ""
+    }
+  ]
+}

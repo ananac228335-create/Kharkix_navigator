@@ -1,0 +1,471 @@
+{
+  "lines": [
+    {
+      "id": 1,
+      "name": "🔴 Холодногірсько-Заводська / Kholodnohirsko-Zavodska",
+      "color": "#E31E24"
+    },
+    {
+      "id": 2,
+      "name": "🔵 Салтівська / Saltivska",
+      "color": "#0078C9"
+    },
+    {
+      "id": 3,
+      "name": "🟢 Олексіївська / Oleksiivska",
+      "color": "#00A651"
+    }
+  ],
+  "stations": [
+    {
+      "id": 1,
+      "name": {
+        "ru": "Холодна гора",
+        "en": "Kholodna Hora"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Одна з найважливіших станцій Харківського метро. Станція має найбільший пасажиропотік у метрополітені та розташована біля Полтавського шляху й автовокзалу.",
+        "en": "One of the most important stations of the Kharkiv Metro. It has the highest passenger traffic and is located near Poltavskyi Shliakh and the bus station."
+      },
+      "photo": "KholodnaHora.jpg",
+      "lat": 49.9829,
+      "lon": 36.1825
+    },
+    {
+      "id": 2,
+      "name": {
+        "ru": "Вокзальна",
+        "en": "Vokzalna"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Станція розташована біля залізничного вокзалу Харків-Пасажирський та є важливим транспортним вузлом міста. Відкрита 23 серпня 1975 року.",
+        "en": "The station is located near Kharkiv-Pasazhyrskyi railway station and is an important transport hub of the city. Opened on August 23, 1975."
+      },
+      "photo": "Vokzalna.jpg",
+      "lat": 49.9897,
+      "lon": 36.2056
+    },
+    {
+      "id": 3,
+      "name": {
+        "ru": "Центральний ринок",
+        "en": "Tsentralnyi Rynok"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Станція розташована в центральній частині Харкова поруч із Центральним ринком. Відкрита 23 серпня 1975 року.",
+        "en": "The station is located in the central part of Kharkiv next to the Central Market. Opened on August 23, 1975."
+      },
+      "photo": "TsentralnyiRynok.jpg",
+      "lat": 49.9918,
+      "lon": 36.2192
+    },
+    {
+      "id": 4,
+      "name": {
+        "ru": "Майдан Конституції",
+        "en": "Maidan Konstytutsii"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Одна з центральних станцій Харкова та важливий пересадний вузол на станцію «Історичний музей». Розташована під майданом Конституції.",
+        "en": "One of the central stations of Kharkiv and an important transfer hub to Istorychnyi Muzei station. Located under Constitution Square."
+      },
+      "photo": "MaidanKonstytutsii.jpg",
+      "lat": 49.9925,
+      "lon": 36.2312
+    },
+    {
+      "id": 5,
+      "name": {
+        "ru": "Левада",
+        "en": "Levada"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Станція розташована в південній частині центрального Харкова. До 2024 року мала назву «Проспект Гагаріна».",
+        "en": "The station is located in the southern part of central Kharkiv. Until 2024 it was called Prospekt Gagarina."
+      },
+      "photo": "Levada.jpg",
+      "lat": 49.9808,
+      "lon": 36.2438
+    },
+    {
+      "id": 6,
+      "name": {
+        "ru": "Спортивна",
+        "en": "Sportyvna"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Станція розташована біля спортивних та транспортних об'єктів Харкова. Поруч знаходиться стадіон «Металіст».",
+        "en": "The station is located near sports and transport facilities of Kharkiv. Metallist Stadium is nearby."
+      },
+      "photo": "Sportyvna.jpg",
+      "lat": 49.9802,
+      "lon": 36.2608
+    },
+    {
+      "id": 7,
+      "name": {
+        "ru": "Заводська",
+        "en": "Zavodska"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Станція першої черги Харківського метрополітену, відкрита 23 серпня 1975 року. До 2024 року мала назву «Завод імені Малишева».",
+        "en": "A station of the first stage of the Kharkiv Metro, opened on August 23, 1975. Until 2024 it was called Zavod imeni Malysheva."
+      },
+      "photo": "Zavodska.jpg",
+      "lat": 49.9756,
+      "lon": 36.2785
+    },
+    {
+      "id": 8,
+      "name": {
+        "ru": "Турбоатом",
+        "en": "Turboatom"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Станція розташована біля однойменного промислового підприємства. Її оформлення виконане в індустріальному стилі. До 2019 року називалась «Московський проспект».",
+        "en": "The station is located near the Turboatom industrial enterprise. Its design is in an industrial style. Until 2019 it was called Moskovskyi Prospekt."
+      },
+      "photo": "Turboatom.jpg",
+      "lat": 49.9718,
+      "lon": 36.2952
+    },
+    {
+      "id": 9,
+      "name": {
+        "ru": "Палац Спорту",
+        "en": "Palats Sportu"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Станція обслуговує район Нові Будинки та розташована поруч із Палацом спорту. Відкрита 11 серпня 1978 року.",
+        "en": "The station serves the Novi Budynky district and is located next to the Palace of Sports. Opened on August 11, 1978."
+      },
+      "photo": "PalatsSportu.jpg",
+      "lat": 49.9682,
+      "lon": 36.3125
+    },
+    {
+      "id": 10,
+      "name": {
+        "ru": "Армійська",
+        "en": "Armiiska"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Станція розташована в районі Нові Будинки. Її оформлення пов'язане з історією визволення Харкова у 1943 році.",
+        "en": "The station is located in the Novi Budynky district. Its design is connected with the history of the liberation of Kharkiv in 1943."
+      },
+      "photo": "Armiiska.jpg",
+      "lat": 49.9648,
+      "lon": 36.3288
+    },
+    {
+      "id": 11,
+      "name": {
+        "ru": "Академіка Масельського",
+        "en": "Akademika Maselskoho"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Станція розташована в Індустріальному районі Харкова та обслуговує великий житловий масив.",
+        "en": "The station is located in the Industrialnyi district of Kharkiv and serves a large residential area."
+      },
+      "photo": "AkademikaMaselskoho.jpg",
+      "lat": 49.9612,
+      "lon": 36.3455
+    },
+    {
+      "id": 12,
+      "name": {
+        "ru": "Тракторний завод",
+        "en": "Traktornyi Zavod"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Станція розташована біля Харківського тракторного заводу. Відкрита 11 серпня 1978 року.",
+        "en": "The station is located near the Kharkiv Tractor Plant. Opened on August 11, 1978."
+      },
+      "photo": "TraktornyiZavod.jpg",
+      "lat": 49.9575,
+      "lon": 36.3612
+    },
+    {
+      "id": 13,
+      "name": {
+        "ru": "Індустріальна",
+        "en": "Industrialna"
+      },
+      "line_id": 1,
+      "description": {
+        "ru": "Кінцева станція Холодногірсько-Заводської лінії. Розташована в східній частині Харкова та має важливе транспортне значення.",
+        "en": "The terminal station of the Kholodnohirsko-Zavodska Line. Located in the eastern part of Kharkiv and has important transport significance."
+      },
+      "photo": "Industrialna.jpg",
+      "lat": 49.9538,
+      "lon": 36.377
+    },
+    {
+      "id": 14,
+      "name": {
+        "ru": "Історичний музей",
+        "en": "Istorychnyi Muzei"
+      },
+      "line_id": 2,
+      "description": {
+        "ru": "Одна з найвідоміших станцій Харківського метро, розташована в центрі міста. Має пересадку на станцію «Майдан Конституції».",
+        "en": "One of the most famous stations of the Kharkiv Metro, located in the city center. Has a transfer to Maidan Konstytutsii station."
+      },
+      "photo": "IstorychnyiMuzei.jpg",
+      "lat": 49.9928,
+      "lon": 36.2305
+    },
+    {
+      "id": 15,
+      "name": {
+        "ru": "Університет",
+        "en": "Universytet"
+      },
+      "line_id": 2,
+      "description": {
+        "ru": "Станція розташована в центральній частині Харкова поруч із університетами та площею Свободи. Відкрита 11 серпня 1984 року.",
+        "en": "The station is located in the central part of Kharkiv near universities and Freedom Square. Opened on August 11, 1984."
+      },
+      "photo": "Universytet.jpg",
+      "lat": 50.0044,
+      "lon": 36.23
+    },
+    {
+      "id": 16,
+      "name": {
+        "ru": "Ярослава Мудрого",
+        "en": "Yaroslava Mudroho"
+      },
+      "line_id": 2,
+      "description": {
+        "ru": "Станція глибокого закладення в центральній частині Харкова. До 2024 року мала назву «Пушкінська».",
+        "en": "A deep-level station in the central part of Kharkiv. Until 2024 it was called Pushkinska."
+      },
+      "photo": "YaroslavaMudroho.jpg",
+      "lat": 50.0039,
+      "lon": 36.2472
+    },
+    {
+      "id": 17,
+      "name": {
+        "ru": "Київська",
+        "en": "Kyivska"
+      },
+      "line_id": 2,
+      "description": {
+        "ru": "Станція Салтівської лінії, розташована в північно-східній частині Харкова. Відкрита 11 серпня 1984 року.",
+        "en": "A station of the Saltivska Line, located in the north-eastern part of Kharkiv. Opened on August 11, 1984."
+      },
+      "photo": "Kyivska.jpg",
+      "lat": 50.0086,
+      "lon": 36.2755
+    },
+    {
+      "id": 18,
+      "name": {
+        "ru": "Академіка Барабашова",
+        "en": "Akademika Barabashova"
+      },
+      "line_id": 2,
+      "description": {
+        "ru": "Велика станція Салтівської лінії, розташована поруч із найбільшим ринком Харкова. Відкрита 11 серпня 1984 року.",
+        "en": "A large station of the Saltivska Line, located next to the largest market in Kharkiv. Opened on August 11, 1984."
+      },
+      "photo": "AkademikaBarabashova.jpg",
+      "lat": 50.0012,
+      "lon": 36.3058
+    },
+    {
+      "id": 19,
+      "name": {
+        "ru": "Академіка Павлова",
+        "en": "Akademika Pavlova"
+      },
+      "line_id": 2,
+      "description": {
+        "ru": "Станція розташована під однойменною вулицею в Салтівському районі. Оформлення станції присвячене темі науки.",
+        "en": "The station is located under the street of the same name in the Saltivka district. The station design is dedicated to the theme of science."
+      },
+      "photo": "AkademikaPavlova.jpg",
+      "lat": 49.9998,
+      "lon": 36.3255
+    },
+    {
+      "id": 20,
+      "name": {
+        "ru": "Студентська",
+        "en": "Studentska"
+      },
+      "line_id": 2,
+      "description": {
+        "ru": "Станція розташована серед густонаселених районів Салтівки. Поруч знаходяться навчальні заклади та транспортні зупинки.",
+        "en": "The station is located among the densely populated areas of Saltivka. Educational institutions and transport stops are nearby."
+      },
+      "photo": "Studentska.jpg",
+      "lat": 50.0006,
+      "lon": 36.3402
+    },
+    {
+      "id": 21,
+      "name": {
+        "ru": "Салтівська",
+        "en": "Saltivska"
+      },
+      "line_id": 2,
+      "description": {
+        "ru": "Кінцева станція Салтівської лінії, розташована в північно-східній частині Харкова. Поруч знаходяться торгові центри, ринки та автостанція.",
+        "en": "The terminal station of the Saltivska Line, located in the north-eastern part of Kharkiv. Shopping centers, markets and a bus station are nearby."
+      },
+      "photo": "Saltivska.jpg",
+      "lat": 50.001,
+      "lon": 36.3555
+    },
+    {
+      "id": 22,
+      "name": {
+        "ru": "Перемога",
+        "en": "Peremoha"
+      },
+      "line_id": 3,
+      "description": {
+        "ru": "Кінцева станція Олексіївської лінії, розташована біля Окружної дороги та Олексіївського житлового масиву. Відкрита 25 серпня 2016 року.",
+        "en": "The terminal station of the Oleksiivska Line, located near the Ring Road and the Oleksiivka residential area. Opened on August 25, 2016."
+      },
+      "photo": "Peremoha.jpg",
+      "lat": 50.0548,
+      "lon": 36.2005
+    },
+    {
+      "id": 23,
+      "name": {
+        "ru": "Олексіївська",
+        "en": "Oleksiivska"
+      },
+      "line_id": 3,
+      "description": {
+        "ru": "Станція Олексіївської лінії, розташована в Олексіївському житловому масиві. Відкрита 21 грудня 2010 року.",
+        "en": "A station of the Oleksiivska Line, located in the Oleksiivka residential area. Opened on December 21, 2010."
+      },
+      "photo": "Oleksiivska.jpg",
+      "lat": 50.0395,
+      "lon": 36.2102
+    },
+    {
+      "id": 24,
+      "name": {
+        "ru": "23 Серпня",
+        "en": "23 Serpnia"
+      },
+      "line_id": 3,
+      "description": {
+        "ru": "Станція розташована в районі Павлове Поле та названа на честь однойменної вулиці. Відкрита у 2004 році.",
+        "en": "The station is located in the Pavlove Pole district and is named after the street of the same name. Opened in 2004."
+      },
+      "photo": "23Serpnia.jpg",
+      "lat": 50.0275,
+      "lon": 36.2185
+    },
+    {
+      "id": 25,
+      "name": {
+        "ru": "Ботанічний сад",
+        "en": "Botanichnyi Sad"
+      },
+      "line_id": 3,
+      "description": {
+        "ru": "Станція розташована під проспектом Науки поруч із Ботанічним садом та Саржиним Яром. В оформленні переважають зелені кольори.",
+        "en": "The station is located under Nauky Avenue next to the Botanical Garden and Sarzhyn Yar. Green colors predominate in the design."
+      },
+      "photo": "BotanichnyiSad.jpg",
+      "lat": 50.0178,
+      "lon": 36.2252
+    },
+    {
+      "id": 26,
+      "name": {
+        "ru": "Наукова",
+        "en": "Naukova"
+      },
+      "line_id": 3,
+      "description": {
+        "ru": "Станція розташована в центральній частині проспекту Науки та обслуговує великий житловий і студентський район Харкова.",
+        "en": "The station is located in the central part of Nauky Avenue and serves a large residential and student area of Kharkiv."
+      },
+      "photo": "Naukova.jpg",
+      "lat": 50.0098,
+      "lon": 36.228
+    },
+    {
+      "id": 27,
+      "name": {
+        "ru": "Держпром",
+        "en": "Derzhprom"
+      },
+      "line_id": 3,
+      "description": {
+        "ru": "Станція розташована поруч із площею Свободи та комплексом Держпрому. Є важливим транспортним вузлом центральної частини Харкова.",
+        "en": "The station is located next to Freedom Square and the Derzhprom complex. It is an important transport hub in the central part of Kharkiv."
+      },
+      "photo": "Derzhprom.jpg",
+      "lat": 50.0057,
+      "lon": 36.2294
+    },
+    {
+      "id": 28,
+      "name": {
+        "ru": "Архітектора Бекетова",
+        "en": "Arkhitektora Beketova"
+      },
+      "line_id": 3,
+      "description": {
+        "ru": "Станція розташована в центральній частині Харкова та названа на честь видатного архітектора Олексія Бекетова.",
+        "en": "The station is located in the central part of Kharkiv and is named after the outstanding architect Oleksii Beketov."
+      },
+      "photo": "ArkhitektoraBeketova.jpg",
+      "lat": 50.0002,
+      "lon": 36.2398
+    },
+    {
+      "id": 29,
+      "name": {
+        "ru": "Захисників України",
+        "en": "Zakhysnykiv Ukrainy"
+      },
+      "line_id": 3,
+      "description": {
+        "ru": "Станція розташована в центральній частині Харкова, біля площі Захисників України.",
+        "en": "The station is located in the central part of Kharkiv, near Zakhysnykiv Ukrainy Square."
+      },
+      "photo": "ZakhysnykivUkrainy.jpg",
+      "lat": 49.9918,
+      "lon": 36.2548
+    },
+    {
+      "id": 30,
+      "name": {
+        "ru": "Метробудівників",
+        "en": "Metrobudivnykiv"
+      },
+      "line_id": 3,
+      "description": {
+        "ru": "Станція Олексіївської лінії, розташована в південній частині центрального Харкова. Є важливим транспортним вузлом міста.",
+        "en": "A station of the Oleksiivska Line, located in the southern part of central Kharkiv. It is an important transport hub of the city."
+      },
+      "photo": "Metrobudivnykiv.jpg",
+      "lat": 49.9848,
+      "lon": 36.2652
+    }
+  ]
+}

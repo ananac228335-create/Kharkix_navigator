@@ -1,0 +1,256 @@
+{
+  "updates": [
+    {
+      "date": "2026-10-24",
+      "version": "1.4",
+      "uk": [
+        "Тривога: 3 рівні з кольоровою карткою (🟢 зелений / 🟡 жовтий / 🔴 червоний)",
+        "Кнопка Language завжди англійською",
+        "Гра «Вгадай станцію метро» за фото",
+        "Фікс помилки edit_text на повідомленнях з фото (Увімкнути/Вимкнути)"
+      ],
+      "en": [
+        "Alerts: 3 levels with solid color cards (green / yellow / red)",
+        "Language button always in English",
+        "«Guess the metro station» photo game",
+        "Fix edit_text error on photo messages (Enable/Disable)"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "version": "1.3.1",
+      "uk": [
+        "Локалізація тексту контактів (більше не завжди українською)",
+        "Картка статусу лише про Харківську область (швидша, з кешем)",
+        "Після зміни мови одразу оновлюється клавіатура меню"
+      ],
+      "en": [
+        "Contacts text fully localized",
+        "Status card focused on Kharkiv oblast only (faster, cached)",
+        "Reply keyboard refreshes after language change"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "version": "1.3",
+      "uk": [
+        "Повна локалізація рядків (легко додати нові мови)",
+        "Статус тривоги: якщо є в інших областях, але не в Харкові — список регіонів + схема-картинка",
+        "Команда /status і кнопка «Перевірити зараз» з візуальною підказкою"
+      ],
+      "en": [
+        "Full string localization (easy to add more languages)",
+        "Alert status: if active elsewhere but not in Kharkiv — region list + scheme image",
+        "/status and «Check now» with visual hint"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "version": "1.2",
+      "uk": [
+        "Кнопка Контакти в головному меню",
+        "Перевірка статусу тривоги зараз (/status)",
+        "/stats тільки для адмінів (приховано в меню)",
+        "Збереження мови та статистики між перезапусками",
+        "Виправлення схеми метро, розкладу (час Києва), кеш даних"
+      ],
+      "en": [
+        "Contacts button in main menu",
+        "Check current alert status (/status)",
+        "/stats for admins only (hidden from menu)",
+        "Persist language and stats across restarts",
+        "Metro map, schedule (Kyiv time), data cache fixes"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "version": "0.98",
+      "uk": [
+        "Виправлено відображення фото цікавих місць при натисканні",
+        "Шлях до фото: data/places_photos/places_photos/"
+      ],
+      "en": [
+        "Fixed photos for interesting places on click",
+        "Photo path: data/places_photos/places_photos/"
+      ],
+      "ru": [
+        "Исправлено отображение фото интересных мест при нажатии",
+        "Путь к фото: data/places_photos/places_photos/"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "version": "0.96",
+      "uk": [
+        "Логи: ім'я + @нік + id користувача",
+        "Повна історія версій у «Оновлення» (від першого каркасу)"
+      ],
+      "en": [
+        "Logs: full name + @username + id",
+        "Full version history in Updates (from the first scaffold)"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "version": "0.95",
+      "uk": [
+        "Кнопки меню прямо в повідомленні (inline)",
+        "Допомога і Тривога — у меню команд бота (/help, /alerts)",
+        "У допомозі: створювач #XDAS2"
+      ],
+      "en": [
+        "Inline menu buttons in the message",
+        "Help and Alerts in bot command menu",
+        "Creator credit #XDAS2 in Help"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "version": "0.94",
+      "uk": [
+        "Полагоджено «Де поїсти поруч» і «Готелі поруч» на станціях",
+        "Кнопка «Що поруч» (Нова Пошта, ринки, магазини взуття…)",
+        "Компактні кольорові логи (1 рядок)"
+      ],
+      "en": [
+        "Fixed Food/Hotels nearby on stations",
+        "Nearby services button per station",
+        "Compact colored one-line logs"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "version": "0.93",
+      "uk": [
+        "Реальні готелі Харкова з адресами та координатами",
+        "Реальні зони харчування + Google Maps",
+        "Банкомати в реальних точках біля метро"
+      ],
+      "en": [
+        "Real Kharkiv hotels with addresses and coordinates",
+        "Real food areas + Google Maps",
+        "ATMs at real points near metro"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "version": "0.90–0.92",
+      "uk": [
+        "Банкомати біля станцій і місць",
+        "Розділи «Де поїсти» і «Готелі» (фільтр 1–5★)",
+        "Розмовні фрази за категоріями",
+        "Кнопка «Оновлення»"
+      ],
+      "en": [
+        "ATMs near stations and places",
+        "Food and Hotels (1–5★ filter)",
+        "Phrases by category",
+        "Updates button"
+      ]
+    },
+    {
+      "date": "2026-09-16–17",
+      "version": "0.80–0.81",
+      "uk": [
+        "Українська мова за замовчуванням (uk / en)",
+        "Стандартний logging",
+        "Тривоги через alerts.com.ua",
+        "Виправлено «not handled» для цікавих місць",
+        "147 місць, 15 категорій у places.json"
+      ],
+      "en": [
+        "Ukrainian as default (uk / en)",
+        "Standard logging",
+        "Alerts via alerts.com.ua",
+        "Fixed Places «not handled»",
+        "147 places, 15 categories"
+      ]
+    },
+    {
+      "date": "2026-09-13–15",
+      "version": "0.60–0.70 / 0.67",
+      "uk": [
+        "Фото станцій і схема метро на екрані",
+        "Опис станцій, посилання на карту",
+        "Місця поруч зі станцією",
+        "Розклад метро на найближчу годину",
+        "Статистика для розробника (/stats)"
+      ],
+      "en": [
+        "Station photos and metro map",
+        "Station descriptions and map links",
+        "Places near station",
+        "Metro schedule for the next hour",
+        "Developer /stats"
+      ]
+    },
+    {
+      "date": "2026-09-10–12",
+      "version": "0.51–0.53 alpha",
+      "uk": [
+        "Метро: вибір лінії → список станцій кнопками",
+        "Спроби додати фото / sendPhoto",
+        "Доопрацювання мови та обробників start/metro",
+        "Кнопка тривоги в меню (ще нестабільна)"
+      ],
+      "en": [
+        "Metro: line → stations as buttons",
+        "Early photo / sendPhoto attempts",
+        "Language and start/metro handler fixes",
+        "Alerts button (still unstable)"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "version": "0.50 alpha",
+      "uk": [
+        "Робочий /start з вибором мови",
+        "Меню: Метро, Місця, Допомога, Мова",
+        "Locales: усі тексти кнопок в одному місці",
+        "metro.json з лініями та станціями (~30)",
+        "Базові handlers: start, metro, places"
+      ],
+      "en": [
+        "Working /start with language choice",
+        "Menu: Metro, Places, Help, Language",
+        "Locales: all button texts in one place",
+        "metro.json with lines and ~30 stations",
+        "Basic handlers: start, metro, places"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "version": "0.1 (перший файл)",
+      "uk": [
+        "Перший каркас шкільного проєкту city_navigator",
+        "Структура папок: handlers, keyboards, data",
+        "main.py + config (токен) + requirements (aiogram)",
+        "Меню з кількох кнопок",
+        "Заготовка метро та місць без фото і без реальних готелів/їжі",
+        "Чернетка alerts_worker у services"
+      ],
+      "en": [
+        "First scaffold of the school project city_navigator",
+        "Folders: handlers, keyboards, data",
+        "main.py + config (token) + requirements (aiogram)",
+        "Simple multi-button menu",
+        "Metro/places stubs without photos or real hotels/food",
+        "Draft alerts_worker in services"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "version": "1.10",
+      "uk": [
+        "Перший захист проєкту (alerts / підписки / базова стабільність)",
+        "Сповіщення про повітряну тривогу, підписки на диск",
+        "Hotfix фото та базова навігація"
+      ],
+      "en": [
+        "First project hardening (alerts / subscriptions / basic stability)",
+        "Air raid alerts, persistent subscriptions",
+        "Photo hotfix and basic navigation"
+      ]
+    }
+  ]
+}

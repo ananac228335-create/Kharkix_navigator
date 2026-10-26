@@ -1,0 +1,276 @@
+{
+  "by_station": {
+    "1": [
+      {
+        "uk": "Нова Пошта (відділення на Полтавському Шляху)",
+        "en": "Nova Poshta (Poltavskyi Shliakh)"
+      },
+      {
+        "uk": "Автовокзал «Центральний» поруч",
+        "en": "Central bus station nearby"
+      },
+      {
+        "uk": "Магазини та аптеки на Полтавському Шляху",
+        "en": "Shops and pharmacies on Poltavskyi Shliakh"
+      }
+    ],
+    "2": [
+      {
+        "uk": "Залізничний вокзал Харків-Пасажирський",
+        "en": "Kharkiv-Pasazhyrskyi railway station"
+      },
+      {
+        "uk": "Каси, кафе, камери схову на вокзалі",
+        "en": "Ticket offices, cafes, lockers at the station"
+      },
+      {
+        "uk": "Нова Пошта / Укрпошта біля вокзалу",
+        "en": "Nova Poshta / Ukrposhta near the station"
+      }
+    ],
+    "3": [
+      {
+        "uk": "Центральний ринок (Благовіщенський)",
+        "en": "Central Market"
+      },
+      {
+        "uk": "Багато продуктових павільйонів",
+        "en": "Many food stalls"
+      },
+      {
+        "uk": "Обмін валют біля ринку",
+        "en": "Currency exchange near the market"
+      }
+    ],
+    "4": [
+      {
+        "uk": "Історичний центр, музеї",
+        "en": "Historic center, museums"
+      },
+      {
+        "uk": "Нова Пошта в центрі",
+        "en": "Nova Poshta downtown"
+      },
+      {
+        "uk": "Банки та банкомати",
+        "en": "Banks and ATMs"
+      }
+    ],
+    "5": [
+      {
+        "uk": "Автостанція «Левада»",
+        "en": "Levada bus station"
+      },
+      {
+        "uk": "Торгові точки біля виходу",
+        "en": "Shops near the exit"
+      }
+    ],
+    "6": [
+      {
+        "uk": "Стадіон «Металіст»",
+        "en": "Metalist Stadium"
+      },
+      {
+        "uk": "Магазини спортивного одягу",
+        "en": "Sportswear shops"
+      },
+      {
+        "uk": "Кафе біля стадіону",
+        "en": "Cafes near the stadium"
+      }
+    ],
+    "7": [
+      {
+        "uk": "Промислова зона, магазини на проспекті",
+        "en": "Industrial area, avenue shops"
+      }
+    ],
+    "8": [
+      {
+        "uk": "Район Турбоатома, місцеві магазини",
+        "en": "Turboatom area, local shops"
+      }
+    ],
+    "9": [
+      {
+        "uk": "Багато магазинів взуття та одягу",
+        "en": "Many shoe and clothing stores"
+      },
+      {
+        "uk": "Палац спорту «Локомотив»",
+        "en": "Lokomotyv Palace of Sports"
+      },
+      {
+        "uk": "Торгові павільйони біля виходу",
+        "en": "Retail kiosks near the exit"
+      }
+    ],
+    "10": [
+      {
+        "uk": "Районні магазини та аптеки",
+        "en": "Local shops and pharmacies"
+      }
+    ],
+    "11": [
+      {
+        "uk": "Торгові точки, Нова Пошта в районі",
+        "en": "Shops, Nova Poshta in the area"
+      }
+    ],
+    "12": [
+      {
+        "uk": "Район ХТЗ, ринки та магазини",
+        "en": "KhTZ area, markets and shops"
+      }
+    ],
+    "13": [
+      {
+        "uk": "Кінцева станція, місцеві сервіси",
+        "en": "Terminal station, local services"
+      }
+    ],
+    "14": [
+      {
+        "uk": "Музеї, сувеніри",
+        "en": "Museums, souvenirs"
+      },
+      {
+        "uk": "Кафе в історичному центрі",
+        "en": "Cafes in the historic center"
+      }
+    ],
+    "15": [
+      {
+        "uk": "ХНУ ім. Каразіна, книгарні",
+        "en": "Karazin University, bookstores"
+      },
+      {
+        "uk": "Кав'ярні на майдані Свободи",
+        "en": "Cafes on Freedom Square"
+      },
+      {
+        "uk": "Нова Пошта в центрі",
+        "en": "Nova Poshta downtown"
+      }
+    ],
+    "16": [
+      {
+        "uk": "Вул. Пушкінська — ресторани та магазини",
+        "en": "Pushkinska St — restaurants and shops"
+      },
+      {
+        "uk": "Бутіки та кав'ярні",
+        "en": "Boutiques and cafes"
+      }
+    ],
+    "17": [
+      {
+        "uk": "Салтівський напрямок, супермаркети",
+        "en": "Saltivka direction, supermarkets"
+      }
+    ],
+    "18": [
+      {
+        "uk": "Ринок «Барабашово» — найбільший речовий ринок",
+        "en": "Barabashovo market — large clothing market"
+      },
+      {
+        "uk": "Тисячі павільйонів: одяг, взуття, техніка",
+        "en": "Thousands of stalls: clothes, shoes, electronics"
+      },
+      {
+        "uk": "Нова Пошта біля ринку",
+        "en": "Nova Poshta near the market"
+      }
+    ],
+    "19": [
+      {
+        "uk": "Супермаркети Салтівки",
+        "en": "Saltivka supermarkets"
+      },
+      {
+        "uk": "Аптеки та Нова Пошта",
+        "en": "Pharmacies and Nova Poshta"
+      }
+    ],
+    "20": [
+      {
+        "uk": "Гуртожитки, студентські кафе",
+        "en": "Dorms, student cafes"
+      }
+    ],
+    "21": [
+      {
+        "uk": "Кінцева, районні магазини",
+        "en": "Terminal, local shops"
+      }
+    ],
+    "22": [
+      {
+        "uk": "Олексіївка, супермаркети",
+        "en": "Oleksiivka, supermarkets"
+      },
+      {
+        "uk": "Нова Пошта на Олексіївці",
+        "en": "Nova Poshta in Oleksiivka"
+      }
+    ],
+    "23": [
+      {
+        "uk": "Житловий район, аптеки, магазини",
+        "en": "Residential area, pharmacies, shops"
+      }
+    ],
+    "24": [
+      {
+        "uk": "Магазини та сервіси району",
+        "en": "Area shops and services"
+      }
+    ],
+    "25": [
+      {
+        "uk": "Саржин Яр, джерело",
+        "en": "Sarzhyn Yar spring"
+      },
+      {
+        "uk": "Кафе біля ботсаду",
+        "en": "Cafes near the botanical garden"
+      }
+    ],
+    "26": [
+      {
+        "uk": "Інститути, кав'ярні на Науки",
+        "en": "Institutes, cafes on Nauky Ave"
+      }
+    ],
+    "27": [
+      {
+        "uk": "Держпром, майдан Свободи",
+        "en": "Derzhprom, Freedom Square"
+      },
+      {
+        "uk": "Банки, Нова Пошта, магазини",
+        "en": "Banks, Nova Poshta, shops"
+      }
+    ],
+    "28": [
+      {
+        "uk": "Університетські корпуси, кафе",
+        "en": "University buildings, cafes"
+      }
+    ],
+    "29": [
+      {
+        "uk": "Районні ТЦ та магазини",
+        "en": "Local malls and shops"
+      }
+    ],
+    "30": [
+      {
+        "uk": "Біля «Спортивної», магазини району",
+        "en": "Near Sportyvna, local shops"
+      }
+    ]
+  }
+}

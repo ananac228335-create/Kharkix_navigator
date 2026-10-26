@@ -1,0 +1,304 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": {
+        "uk": "Готель «Харків»",
+        "en": "Hotel Kharkiv",
+        "ru": "Готель «Харків»"
+      },
+      "description": {
+        "uk": "Класичний готель на майдані Свободи. Метро «Університет» / «Держпром».",
+        "en": "Classic hotel on Freedom Square. Metro: Universytet / Derzhprom."
+      },
+      "address": {
+        "uk": "майдан Свободи, 7",
+        "en": "Svobody Square, 7"
+      },
+      "lat": 50.00517,
+      "lon": 36.23339,
+      "station_ids": [
+        15,
+        27
+      ],
+      "stars": 3,
+      "category": "hotel",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hotel_Kharkov.jpg/640px-Hotel_Kharkov.jpg"
+    },
+    {
+      "id": 2,
+      "name": {
+        "uk": "Kharkiv Palace Premier Hotel",
+        "en": "Kharkiv Palace Premier Hotel",
+        "ru": "Kharkiv Palace Premier Hotel"
+      },
+      "description": {
+        "uk": "5★ готель на проспекті Незалежності, біля Держпрому.",
+        "en": "5★ hotel on Nezalezhnosti Ave, near Derzhprom."
+      },
+      "address": {
+        "uk": "просп. Незалежності, 2",
+        "en": "Nezalezhnosti Ave, 2"
+      },
+      "lat": 50.00663,
+      "lon": 36.23294,
+      "station_ids": [
+        27,
+        15
+      ],
+      "stars": 5,
+      "category": "hotel",
+      "photo": ""
+    },
+    {
+      "id": 3,
+      "name": {
+        "uk": "Готель «Національ»",
+        "en": "National Hotel",
+        "ru": "Готель «Національ»"
+      },
+      "description": {
+        "uk": "Готель на проспекті Науки, поруч із Ботанічним садом.",
+        "en": "Hotel on Nauky Avenue near the Botanical Garden."
+      },
+      "address": {
+        "uk": "просп. Науки, 21",
+        "en": "Nauky Ave, 21"
+      },
+      "lat": 50.0198,
+      "lon": 36.2244,
+      "station_ids": [
+        25,
+        26
+      ],
+      "stars": 3,
+      "category": "hotel",
+      "photo": ""
+    },
+    {
+      "id": 4,
+      "name": {
+        "uk": "Готель «Мир»",
+        "en": "Hotel Myr",
+        "ru": "Готель «Мир»"
+      },
+      "description": {
+        "uk": "Готельний комплекс на просп. Науки біля метро «Ботанічний сад».",
+        "en": "Hotel complex on Nauky Ave near Botanichnyi Sad metro."
+      },
+      "address": {
+        "uk": "просп. Науки, 27А",
+        "en": "Nauky Ave, 27A"
+      },
+      "lat": 50.0272,
+      "lon": 36.2198,
+      "station_ids": [
+        25,
+        24
+      ],
+      "stars": 3,
+      "category": "hotel",
+      "photo": ""
+    },
+    {
+      "id": 5,
+      "name": {
+        "uk": "Premier Hotel Aurora",
+        "en": "Premier Hotel Aurora",
+        "ru": "Premier Hotel Aurora"
+      },
+      "description": {
+        "uk": "4★ готель у центрі, вул. Алчевських, кілька хвилин до майдану Свободи.",
+        "en": "4★ hotel downtown on Alchevskykh St, minutes from Freedom Square."
+      },
+      "address": {
+        "uk": "вул. Алчевських, 10/12",
+        "en": "Alchevskykh St, 10/12"
+      },
+      "lat": 50.00194,
+      "lon": 36.24028,
+      "station_ids": [
+        16,
+        28
+      ],
+      "stars": 4,
+      "category": "hotel",
+      "photo": ""
+    },
+    {
+      "id": 6,
+      "name": {
+        "uk": "Готель «Вікторія»",
+        "en": "Hotel Victoria",
+        "ru": "Готель «Вікторія»"
+      },
+      "description": {
+        "uk": "Готель з SPA у діловій частині міста.",
+        "en": "Hotel with SPA in the business area."
+      },
+      "address": {
+        "uk": "вул. Примєрська, 23",
+        "en": "Prymerska St, 23"
+      },
+      "lat": 49.9935,
+      "lon": 36.2348,
+      "station_ids": [
+        4,
+        14
+      ],
+      "stars": 4,
+      "category": "hotel",
+      "photo": ""
+    },
+    {
+      "id": 7,
+      "name": {
+        "uk": "Готель «Чичиков»",
+        "en": "Chichikov Hotel",
+        "ru": "Готель «Чичиков»"
+      },
+      "description": {
+        "uk": "Бутік-готель в історичному центрі.",
+        "en": "Boutique hotel in the historic center."
+      },
+      "address": {
+        "uk": "вул. Гоголя, 1",
+        "en": "Hoholia St, 1"
+      },
+      "lat": 49.9958,
+      "lon": 36.2315,
+      "station_ids": [
+        14,
+        4
+      ],
+      "stars": 4,
+      "category": "hotel",
+      "photo": ""
+    },
+    {
+      "id": 8,
+      "name": {
+        "uk": "Cosmopolit Hotel",
+        "en": "Cosmopolit Hotel",
+        "ru": "Cosmopolit Hotel"
+      },
+      "description": {
+        "uk": "Сучасний готель у діловому районі (просп. Академіка Проскури).",
+        "en": "Modern hotel in the business district (Proskury Ave)."
+      },
+      "address": {
+        "uk": "вул. Академіка Проскури, 1",
+        "en": "Akademika Proskury St, 1"
+      },
+      "lat": 49.9802,
+      "lon": 36.2625,
+      "station_ids": [
+        6,
+        30
+      ],
+      "stars": 4,
+      "category": "hotel",
+      "photo": ""
+    },
+    {
+      "id": 9,
+      "name": {
+        "uk": "Готель «Київський»",
+        "en": "Kyivskyi Hotel",
+        "ru": "Готель «Київський»"
+      },
+      "description": {
+        "uk": "Готель біля залізничного вокзалу Харків-Пасажирський.",
+        "en": "Hotel near Kharkiv-Pasazhyrskyi railway station."
+      },
+      "address": {
+        "uk": "вул. Котляра, 5",
+        "en": "Kotliara St, 5"
+      },
+      "lat": 49.9901,
+      "lon": 36.2038,
+      "station_ids": [
+        2,
+        1
+      ],
+      "stars": 2,
+      "category": "hotel",
+      "photo": ""
+    },
+    {
+      "id": 10,
+      "name": {
+        "uk": "Хостел «Друзі»",
+        "en": "Druzy Hostel",
+        "ru": "Хостел «Друзі»"
+      },
+      "description": {
+        "uk": "Хостел у центрі для бюджетних подорожей.",
+        "en": "Central hostel for budget travelers."
+      },
+      "address": {
+        "uk": "вул. Сумська, центр",
+        "en": "Sumska St, center"
+      },
+      "lat": 50.0005,
+      "lon": 36.2345,
+      "station_ids": [
+        15,
+        16
+      ],
+      "stars": 1,
+      "category": "hotel",
+      "photo": ""
+    },
+    {
+      "id": 11,
+      "name": {
+        "uk": "Готель «Аврора» (історичний)",
+        "en": "Aurora Hotel (historic area)",
+        "ru": "Готель «Аврора»"
+      },
+      "description": {
+        "uk": "Розташований у тихому кварталі центру.",
+        "en": "Located in a quiet central block."
+      },
+      "address": {
+        "uk": "вул. Алчевських, 10/12",
+        "en": "Alchevskykh St, 10/12"
+      },
+      "lat": 50.002,
+      "lon": 36.2405,
+      "station_ids": [
+        16,
+        28
+      ],
+      "stars": 4,
+      "category": "hotel",
+      "photo": ""
+    },
+    {
+      "id": 12,
+      "name": {
+        "uk": "Готель «Дует»",
+        "en": "Duet Hotel",
+        "ru": "Готель «Дует»"
+      },
+      "description": {
+        "uk": "Невеликий готель ближче до центру.",
+        "en": "Small hotel closer to the center."
+      },
+      "address": {
+        "uk": "вул. Чичибабіна, 1",
+        "en": "Chychybabina St, 1"
+      },
+      "lat": 50.0085,
+      "lon": 36.236,
+      "station_ids": [
+        15,
+        26
+      ],
+      "stars": 3,
+      "category": "hotel",
+      "photo": ""
+    }
+  ]
+}

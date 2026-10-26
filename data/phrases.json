@@ -1,0 +1,326 @@
+{
+  "categories": [
+    {
+      "id": "greeting",
+      "uk": "Привітання",
+      "en": "Greetings"
+    },
+    {
+      "id": "metro",
+      "uk": "Метро",
+      "en": "Metro"
+    },
+    {
+      "id": "food",
+      "uk": "Їжа",
+      "en": "Food"
+    },
+    {
+      "id": "hotel",
+      "uk": "Готель",
+      "en": "Hotel"
+    },
+    {
+      "id": "directions",
+      "uk": "Орієнтування",
+      "en": "Directions"
+    },
+    {
+      "id": "emergency",
+      "uk": "Екстрене",
+      "en": "Emergency"
+    },
+    {
+      "id": "shopping",
+      "uk": "Покупки",
+      "en": "Shopping"
+    },
+    {
+      "id": "polite",
+      "uk": "Ввічливість",
+      "en": "Politeness"
+    }
+  ],
+  "phrases": [
+    {
+      "id": 1,
+      "category": "greeting",
+      "uk": "Доброго дня!",
+      "en": "Good afternoon!",
+      "note": {
+        "uk": "Універсальне привітання",
+        "en": "Universal greeting"
+      }
+    },
+    {
+      "id": 2,
+      "category": "greeting",
+      "uk": "Привіт! Як справи?",
+      "en": "Hi! How are you?",
+      "note": {
+        "uk": "Неформально",
+        "en": "Informal"
+      }
+    },
+    {
+      "id": 3,
+      "category": "greeting",
+      "uk": "Доброго ранку!",
+      "en": "Good morning!",
+      "note": {
+        "uk": "До обіду",
+        "en": "Until noon"
+      }
+    },
+    {
+      "id": 4,
+      "category": "greeting",
+      "uk": "Доброго вечора!",
+      "en": "Good evening!",
+      "note": {
+        "uk": "Після 17:00",
+        "en": "After 5 PM"
+      }
+    },
+    {
+      "id": 5,
+      "category": "metro",
+      "uk": "Де станція метро?",
+      "en": "Where is the metro station?",
+      "note": {
+        "uk": "Питання про метро",
+        "en": "Asking for metro"
+      }
+    },
+    {
+      "id": 6,
+      "category": "metro",
+      "uk": "Який вихід до центру?",
+      "en": "Which exit to the center?",
+      "note": {
+        "uk": "На станції",
+        "en": "At the station"
+      }
+    },
+    {
+      "id": 7,
+      "category": "metro",
+      "uk": "Скільки коштує жетон?",
+      "en": "How much is a token?",
+      "note": {
+        "uk": "Про квиток",
+        "en": "About tickets"
+      }
+    },
+    {
+      "id": 8,
+      "category": "metro",
+      "uk": "Ця лінія до Салтівки?",
+      "en": "Does this line go to Saltivka?",
+      "note": {
+        "uk": "Напрямок",
+        "en": "Direction"
+      }
+    },
+    {
+      "id": 9,
+      "category": "food",
+      "uk": "Можна меню, будь ласка?",
+      "en": "Can I have the menu, please?",
+      "note": {
+        "uk": "У закладі",
+        "en": "At a restaurant"
+      }
+    },
+    {
+      "id": 10,
+      "category": "food",
+      "uk": "Рахунок, будь ласка.",
+      "en": "The bill, please.",
+      "note": {
+        "uk": "Оплата",
+        "en": "Paying"
+      }
+    },
+    {
+      "id": 11,
+      "category": "food",
+      "uk": "Це гостре?",
+      "en": "Is this spicy?",
+      "note": {
+        "uk": "Про страву",
+        "en": "About food"
+      }
+    },
+    {
+      "id": 12,
+      "category": "food",
+      "uk": "Без м'яса, будь ласка.",
+      "en": "No meat, please.",
+      "note": {
+        "uk": "Вегетаріанство",
+        "en": "Vegetarian"
+      }
+    },
+    {
+      "id": 13,
+      "category": "hotel",
+      "uk": "Чи є вільні номери?",
+      "en": "Do you have free rooms?",
+      "note": {
+        "uk": "Бронювання",
+        "en": "Booking"
+      }
+    },
+    {
+      "id": 14,
+      "category": "hotel",
+      "uk": "Сніданок включено?",
+      "en": "Is breakfast included?",
+      "note": {
+        "uk": "Умови",
+        "en": "Conditions"
+      }
+    },
+    {
+      "id": 15,
+      "category": "hotel",
+      "uk": "О котрій виселення?",
+      "en": "What time is checkout?",
+      "note": {
+        "uk": "Check-out",
+        "en": "Check-out"
+      }
+    },
+    {
+      "id": 16,
+      "category": "directions",
+      "uk": "Як пройти до ...?",
+      "en": "How do I get to ...?",
+      "note": {
+        "uk": "Маршрут",
+        "en": "Route"
+      }
+    },
+    {
+      "id": 17,
+      "category": "directions",
+      "uk": "Це далеко пішки?",
+      "en": "Is it far on foot?",
+      "note": {
+        "uk": "Відстань",
+        "en": "Distance"
+      }
+    },
+    {
+      "id": 18,
+      "category": "directions",
+      "uk": "Покажіть на карті, будь ласка.",
+      "en": "Please show it on the map.",
+      "note": {
+        "uk": "Карта",
+        "en": "Map"
+      }
+    },
+    {
+      "id": 19,
+      "category": "emergency",
+      "uk": "Викличте швидку!",
+      "en": "Call an ambulance!",
+      "note": {
+        "uk": "103",
+        "en": "103"
+      }
+    },
+    {
+      "id": 20,
+      "category": "emergency",
+      "uk": "Де найближче укриття?",
+      "en": "Where is the nearest shelter?",
+      "note": {
+        "uk": "Тривога",
+        "en": "Alert"
+      }
+    },
+    {
+      "id": 21,
+      "category": "emergency",
+      "uk": "Мені потрібна допомога.",
+      "en": "I need help.",
+      "note": {
+        "uk": "Загальне",
+        "en": "General"
+      }
+    },
+    {
+      "id": 22,
+      "category": "shopping",
+      "uk": "Скільки це коштує?",
+      "en": "How much does it cost?",
+      "note": {
+        "uk": "Ціна",
+        "en": "Price"
+      }
+    },
+    {
+      "id": 23,
+      "category": "shopping",
+      "uk": "Можна карткою?",
+      "en": "Can I pay by card?",
+      "note": {
+        "uk": "Оплата",
+        "en": "Payment"
+      }
+    },
+    {
+      "id": 24,
+      "category": "shopping",
+      "uk": "Де банкомат?",
+      "en": "Where is an ATM?",
+      "note": {
+        "uk": "Гроші",
+        "en": "Money"
+      }
+    },
+    {
+      "id": 25,
+      "category": "polite",
+      "uk": "Дякую!",
+      "en": "Thank you!",
+      "note": {
+        "uk": "Подяка",
+        "en": "Thanks"
+      }
+    },
+    {
+      "id": 26,
+      "category": "polite",
+      "uk": "Будь ласка.",
+      "en": "Please. / You're welcome.",
+      "note": {
+        "uk": "Ввічливість",
+        "en": "Politeness"
+      }
+    },
+    {
+      "id": 27,
+      "category": "polite",
+      "uk": "Вибачте.",
+      "en": "Sorry. / Excuse me.",
+      "note": {
+        "uk": "Перепрошення",
+        "en": "Apology"
+      }
+    },
+    {
+      "id": 28,
+      "category": "polite",
+      "uk": "До побачення!",
+      "en": "Goodbye!",
+      "note": {
+        "uk": "Прощання",
+        "en": "Farewell"
+      }
+    }
+  ]
+}
